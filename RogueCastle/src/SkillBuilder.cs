@@ -311,7 +311,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 4f;
                     trait.BaseCost = 125;
                     trait.Appreciation = 105;
-                    trait.MaxLevel = 100;
+                    trait.MaxLevel = 200;
                     trait.IconName = "Icon_ShieldLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -384,7 +384,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 0.01f;
                     trait.BaseCost = 750;
                     trait.Appreciation = 1750;
-                    trait.MaxLevel = 5;
+                    trait.MaxLevel = 10;
                     trait.IconName = "Icon_PotionUpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
