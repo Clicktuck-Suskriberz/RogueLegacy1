@@ -35,7 +35,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 10f;
                     trait.BaseCost = 50;
                     trait.Appreciation = 40;
-                    trait.MaxLevel = 75;
+                    trait.MaxLevel = 200;
                     trait.IconName = "Icon_Health_UpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -100,7 +100,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 2f;
                     trait.BaseCost = 100;
                     trait.Appreciation = 85;
-                    trait.MaxLevel = 75;
+                    trait.MaxLevel = 200;
                     trait.IconName = "Icon_SwordLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -119,7 +119,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 0.05f;
                     trait.BaseCost = 750;
                     trait.Appreciation = 1500;
-                    trait.MaxLevel = 5;
+                    trait.MaxLevel = 10;
                     trait.IconName = "Icon_Attack_UpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -146,7 +146,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 0.02f;
                     trait.BaseCost = 150;
                     trait.Appreciation = 125;
-                    trait.MaxLevel = 25;
+                    trait.MaxLevel = 50;
                     trait.IconName = "Icon_Crit_Chance_UpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -173,7 +173,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 0.05f;
                     trait.BaseCost = 150;
                     trait.Appreciation = 125;
-                    trait.MaxLevel = 25;
+                    trait.MaxLevel = 50;
                     trait.IconName = "Icon_Crit_Damage_UpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -200,7 +200,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 2f;
                     trait.BaseCost = 100;
                     trait.Appreciation = 85;
-                    trait.MaxLevel = 75;
+                    trait.MaxLevel = 200;
                     trait.IconName = "Icon_MagicDmgUpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -219,7 +219,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 10f;
                     trait.BaseCost = 50;
                     trait.Appreciation = 40;
-                    trait.MaxLevel = 75;
+                    trait.MaxLevel = 200;
                     trait.IconName = "Icon_ManaUpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -311,7 +311,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 4f;
                     trait.BaseCost = 125;
                     trait.Appreciation = 105;
-                    trait.MaxLevel = 50;
+                    trait.MaxLevel = 100;
                     trait.IconName = "Icon_ShieldLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -330,7 +330,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 0.1f;
                     trait.BaseCost = 1000;
                     trait.Appreciation = 2150;
-                    trait.MaxLevel = 5;
+                    trait.MaxLevel = 10;
                     trait.IconName = "Icon_Gold_Gain_UpLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -411,7 +411,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 1f;
                     trait.BaseCost = 5000;
                     trait.Appreciation = 5000;
-                    trait.MaxLevel = 1;
+                    trait.MaxLevel = 2;
                     trait.IconName = "Icon_RandomizeChildrenLocked_Sprite";
                     //trait.InputDescription = "Press [Input:" + InputMapType.MENU_MAP + "] to randomize your children";
                     //trait.InputDescLocIDs = new string[] { "LOC_ID_SKILL_INPUT_1", " [Input:" + InputMapType.MENU_MAP + "] ", "LOC_ID_SKILL_INPUT_2" };
@@ -514,7 +514,7 @@ namespace RogueCastle
                     trait.PerLevelModifier = 0.05f;
                     trait.BaseCost = 750;
                     trait.Appreciation = 1700;
-                    trait.MaxLevel = 5;
+                    trait.MaxLevel = 10;
                     trait.IconName = "Icon_ManaCostDownLocked_Sprite";
                     //trait.InputDescription = " ";
                     //trait.InputDescLocIDs = new string[] { "", " ", "" };
@@ -1396,3 +1396,5 @@ namespace RogueCastle
         }
     }
 }
+
+
