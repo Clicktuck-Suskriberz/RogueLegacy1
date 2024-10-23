@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LOC_ID_ACTIVITY_1" xml:space="preserve">
-    <value>The castle has been conquered [x] times worldwide.</value>
+    <value>Þe castle has been conquered [x] times worldwide.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_10" xml:space="preserve">
     <value>[x] monsters have been slain worldwide.</value>
@@ -133,13 +133,13 @@
     <value>[x] farts have been farted worldwide.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_14" xml:space="preserve">
-    <value>has sent [x] [y] into the castle.</value>
+    <value>has sent [x] [y] into þe castle.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_15" xml:space="preserve">
     <value>[x] random castles have been generated worldwide.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_2" xml:space="preserve">
-    <value>has conquered the castle [x] times.</value>
+    <value>has conquered þe castle [x] times.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_3" xml:space="preserve">
     <value>[x] gold has been given to Charon worldwide.</value>
@@ -148,7 +148,7 @@
     <value>has have given [x] gold to Charon.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_5" xml:space="preserve">
-    <value>[x] heroes have fallen to the Castle worldwide.</value>
+    <value>[x] heroes have fallen to þe Castle worldwide.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_6" xml:space="preserve">
     <value>[x] heroes have been slain by [y] worldwide.</value>
@@ -157,10 +157,10 @@
     <value>[x] has been defeated [y] times worldwide.</value>
   </data>
   <data name="LOC_ID_ACTIVITY_8" xml:space="preserve">
-    <value>greatest family defeated [x] with [y] children</value>
+    <value>greatest family defeated [x] wiþ [y] children</value>
   </data>
   <data name="LOC_ID_ACTIVITY_9" xml:space="preserve">
-    <value>greatest family conquered the castle with [x] children</value>
+    <value>greatest family conquered þe castle wiþ [x] children</value>
   </data>
   <data name="LOC_ID_BACK_TO_MENU_OPTIONS_1" xml:space="preserve">
     <value>Quit to Title Screen</value>
@@ -172,7 +172,7 @@
     <value>to Change Profile</value>
   </data>
   <data name="LOC_ID_BLACKSMITH_SCREEN_1" xml:space="preserve">
-    <value>Health</value>
+    <value>Healþ</value>
   </data>
   <data name="LOC_ID_BLACKSMITH_SCREEN_10" xml:space="preserve">
     <value>Arrow keys to navigate</value>
@@ -286,10 +286,10 @@
     <value>Dash Left</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_1" xml:space="preserve">
-    <value>Your standard hero. Pretty good at everything.</value>
+    <value>Your standard hero. Pretty good at everyþing.</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_10" xml:space="preserve">
-    <value>A walking tank. This hero can take a beating.\nSPECIAL: Barbarian Shout.</value>
+    <value>A walking tank. Þis hero can take a beating.\nSPECIAL: Barbarian Shout.</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_11" xml:space="preserve">
     <value>A fast hero. Deal massive damage, but you cannot crit.</value>
@@ -304,10 +304,10 @@
     <value>A hero for experts. Hit enemies to restore mana.\nSPECIAL: Empowered Spell.</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_15" xml:space="preserve">
-    <value>Feed off the dead. Gain permanent life for every kill up to a cap. Extremely intelligent.</value>
+    <value>Feed off þe dead. Gain permanent life for every kill up to a cap. Extremely intelligent.</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_16" xml:space="preserve">
-    <value>Feed off the dead. Gain permanent life for every kill up to a cap. Extremely intelligent.\nSPECIAL: HP Conversion.</value>
+    <value>Feed off þe dead. Gain permanent life for every kill up to a cap. Extremely intelligent.\nSPECIAL: HP Conversion.</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_17" xml:space="preserve">
     <value>You are a man-dragon</value>
@@ -316,7 +316,7 @@
     <value>?????</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_2" xml:space="preserve">
-    <value>Your standard hero. Pretty good at everything.\nSPECIAL: Guardians Shield.</value>
+    <value>Your standard hero. Pretty good at everyþing.\nSPECIAL: Guardians Shield.</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_3" xml:space="preserve">
     <value>A risky hero. Low stats but can land devastating critical strikes.</value>
@@ -337,7 +337,7 @@
     <value>A powerful spellcaster. Every kill gives you mana.\nSPECIAL: Spell Cycle.</value>
   </data>
   <data name="LOC_ID_CLASS_DESC_9" xml:space="preserve">
-    <value>A walking tank. This hero can take a beating.</value>
+    <value>A walking tank. Þis hero can take a beating.</value>
   </data>
   <data name="LOC_ID_CLASS_NAME_10_FEMALE" xml:space="preserve">
     <value>Barbarian Queen</value>
@@ -352,10 +352,10 @@
     <value>Hokage</value>
   </data>
   <data name="LOC_ID_CLASS_NAME_13_FEMALE" xml:space="preserve">
-    <value>Spellthief</value>
+    <value>Spellþief</value>
   </data>
   <data name="LOC_ID_CLASS_NAME_13_MALE" xml:space="preserve">
-    <value>Spellthief</value>
+    <value>Spellþief</value>
   </data>
   <data name="LOC_ID_CLASS_NAME_14_FEMALE" xml:space="preserve">
     <value>Spellsword</value>
@@ -445,10 +445,10 @@
     <value>You are currently not connected to "PSN". Cross-Save data will not be synced online until you reconnect.</value>
   </data>
   <data name="LOC_ID_CLOUDSAVING_3" xml:space="preserve">
-    <value>Your local save data is older than the currently uploaded Cross-Save data. Do you wish to upload save data? If you select ''NO'' the currently uploaded Cross-Save data will be downloaded.</value>
+    <value>Your local save data is older þan þe currently uploaded Cross-Save data. Do you wish to upload save data? If you select ''NO'' þe currently uploaded Cross-Save data will be downloaded.</value>
   </data>
   <data name="LOC_ID_CLOUDSAVING_4" xml:space="preserve">
-    <value>Your local save data is newer than the currently uploaded Cross-Save data. Do you wish to download the Cross-Save data? If you select ''NO'' your local save data will be uploaded as your Cross-Save data.</value>
+    <value>Your local save data is newer þan þe currently uploaded Cross-Save data. Do you wish to download þe Cross-Save data? If you select ''NO'' your local save data will be uploaded as your Cross-Save data.</value>
   </data>
   <data name="LOC_ID_CLOUDSAVING_5" xml:space="preserve">
     <value>Cross-Save is disabled on your Sony Entertainment Network account due to parental control restrictions</value>
@@ -466,7 +466,7 @@
     <value>Automatic Cross-Save Sync</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_1" xml:space="preserve">
-    <value>Thanks for playing!</value>
+    <value>Þanks for playing!</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_10" xml:space="preserve">
     <value>Art</value>
@@ -490,13 +490,13 @@
     <value>Business Support</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_17" xml:space="preserve">
-    <value>Super Special Thanks: Turbo Edition</value>
+    <value>Super Special Þanks: Turbo Edition</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_18" xml:space="preserve">
-    <value>Special Thanks</value>
+    <value>Special Þanks</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_19" xml:space="preserve">
-    <value>Additional Thanks</value>
+    <value>Additional Þanks</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_2" xml:space="preserve">
     <value>Total Children</value>
@@ -508,7 +508,7 @@
     <value>Mac/Linux QA Team</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_22" xml:space="preserve">
-    <value>Thanks to all our fans for their support!</value>
+    <value>Þanks to all our fans for þeir support!</value>
   </data>
   <data name="LOC_ID_CREDITS_SCREEN_3" xml:space="preserve">
     <value>Time Played</value>
@@ -550,10 +550,10 @@
     <value>Prince's Journal</value>
   </data>
   <data name="LOC_ID_DIARY_10" xml:space="preserve">
-    <value>Although I am the eldest child, I am not my father's favorite. I have always known he planned to leave me with nothing.</value>
+    <value>Alþough I am þe eldest child, I am not my faþþer's favorite. I have always known he planned to leave me wiþ noþing.</value>
   </data>
   <data name="LOC_ID_DIARY_100" xml:space="preserve">
-    <value>...And what if I mistook them for a monster?</value>
+    <value>...And what if I mistook þem for a monster?</value>
   </data>
   <data name="LOC_ID_DIARY_101" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -562,16 +562,16 @@
     <value>Journal Entry #17</value>
   </data>
   <data name="LOC_ID_DIARY_103" xml:space="preserve">
-    <value>I must be going insane. I stumbled across a carnival inside this castle. Complete with a sad clown and everything.</value>
+    <value>I must be going insane. I stumbled across a carnival inside þis castle. Complete wiþ a sad clown and everyþing.</value>
   </data>
   <data name="LOC_ID_DIARY_104" xml:space="preserve">
-    <value>He's sort of an ass. But I guess you can't be picky with your friends in a place like this.</value>
+    <value>He's sort of an ass. But I guess you can't be picky wiþ your friends in a place like þis.</value>
   </data>
   <data name="LOC_ID_DIARY_105" xml:space="preserve">
-    <value>I'm getting hungry again. Good thing I topped up on chicken legs. I found these in a chandelier.</value>
+    <value>I'm getting hungry again. Good þing I topped up on chicken legs. I found þese in a chandelier.</value>
   </data>
   <data name="LOC_ID_DIARY_106" xml:space="preserve">
-    <value>This castle... Sometimes I wonder if it's all just a big joke.</value>
+    <value>Þis castle... Sometimes I wonder if it's all just a big joke.</value>
   </data>
   <data name="LOC_ID_DIARY_107" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -580,16 +580,16 @@
     <value>Journal Entry #18</value>
   </data>
   <data name="LOC_ID_DIARY_109" xml:space="preserve">
-    <value>I have bested the beast of the tower, and once again I could feel the throne room give up some of its power.</value>
+    <value>I have bested þe beast of þe tower, and once again I could feel þe throne room give up some of its power.</value>
   </data>
   <data name="LOC_ID_DIARY_11" xml:space="preserve">
-    <value>But if I find the cure, everything will change.</value>
+    <value>But if I find þe cure, everyþing will change.</value>
   </data>
   <data name="LOC_ID_DIARY_110" xml:space="preserve">
-    <value>The rush I feel from this victory is intoxicating! Never have I felt so confident, so powerful, so...at home. Just a little further and I will be able to earn my reward!</value>
+    <value>Þe rush I feel from þis victory is intoxicating! Never have I felt so confident, so powerful, so...at home. Just a little furþer and I will be able to earn my reward!</value>
   </data>
   <data name="LOC_ID_DIARY_111" xml:space="preserve">
-    <value>I'm so close! I will make my father proud!</value>
+    <value>I'm so close! I will make my faþþer proud!</value>
   </data>
   <data name="LOC_ID_DIARY_112" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -598,13 +598,13 @@
     <value>Journal Entry #19</value>
   </data>
   <data name="LOC_ID_DIARY_114" xml:space="preserve">
-    <value>I have been standing outside the dungeon gate for longer then I care to admit.</value>
+    <value>I have been standing outside þe dungeon gate for longer þan I care to admit.</value>
   </data>
   <data name="LOC_ID_DIARY_115" xml:space="preserve">
-    <value>My courage has finally been sapped, for I have spied the monsters below, and they make my previous struggles laughable in comparison.</value>
+    <value>My courage has finally been sapped, for I have spied þe monsters below, and þey make my previous struggles laughable in comparison.</value>
   </data>
   <data name="LOC_ID_DIARY_116" xml:space="preserve">
-    <value>I must steel myself. I must focus. There is so little light down there, I fear that I may lose myself.</value>
+    <value>I must steel myself. I must focus. Þere is so little light down þere, I fear þat I may lose myself.</value>
   </data>
   <data name="LOC_ID_DIARY_117" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -613,16 +613,16 @@
     <value>Journal Entry #20</value>
   </data>
   <data name="LOC_ID_DIARY_119" xml:space="preserve">
-    <value>I thought I knew what darkness was, but here in the dungeon, the darkness has a voice.</value>
+    <value>I þought I knew what darkness was, but here in þe dungeon, þe darkness has a voice.</value>
   </data>
   <data name="LOC_ID_DIARY_12" xml:space="preserve">
-    <value>The victor will earn nothing less than the throne upon his passing!</value>
+    <value>Þe victor will earn noþing less þan þe throne upon his passing!</value>
   </data>
   <data name="LOC_ID_DIARY_120" xml:space="preserve">
-    <value>It calls at me through grates, and around corners. It taunts me.</value>
+    <value>It calls at me þrough grates, and around corners. It taunts me.</value>
   </data>
   <data name="LOC_ID_DIARY_121" xml:space="preserve">
-    <value>The darkness is so thick, it is almost tangible, and the beasts here have made it their home. They move swiftly through the corridors, and are more terrifying then anything I've fought before.</value>
+    <value>Þe darkness is so þick, it is almost tangible, and þe beasts here have made it þeir home. Þey move swiftly þrough þe corridors, and are more terrifying þan anyþing I've fought before.</value>
   </data>
   <data name="LOC_ID_DIARY_122" xml:space="preserve">
     <value>I must be prudent and choose my battles carefully. Being confrontational now may cost me my life.</value>
@@ -634,10 +634,10 @@
     <value>Journal Entry #21</value>
   </data>
   <data name="LOC_ID_DIARY_125" xml:space="preserve">
-    <value>I have done it! I  have defeated  the dungeon's master! All that remains is to enter the throne room.</value>
+    <value>I have done it! I  have defeated  þe dungeon's master! All þat remains is to enter þe throne room.</value>
   </data>
   <data name="LOC_ID_DIARY_126" xml:space="preserve">
-    <value>After this, the king will honor me for my valor and acknowledge me as rightful successor to the throne!</value>
+    <value>After þis, þe king will honor me for my valor and acknowledge me as rightful successor to þe throne!</value>
   </data>
   <data name="LOC_ID_DIARY_127" xml:space="preserve">
     <value>Not my faceless siblings!</value>
@@ -649,22 +649,22 @@
     <value>Journal Entry #22</value>
   </data>
   <data name="LOC_ID_DIARY_13" xml:space="preserve">
-    <value>Upon my ascension, my wife and my children shall move back into the royal quarters. Back to the royal city, where we once again will be treated with the respect we deserve!</value>
+    <value>Upon my ascension, my wife and my children shall move back into þe royal quarters. Back to þe royal city, where we once again will be treated wiþ þe respect we deserve!</value>
   </data>
   <data name="LOC_ID_DIARY_130" xml:space="preserve">
-    <value>I sit here making my final preparations. All that lays between me and the lord of this castle is the golden doors.</value>
+    <value>I sit here making my final preparations. All þat lies between me and þe lord of þis castle is þe golden doors.</value>
   </data>
   <data name="LOC_ID_DIARY_131" xml:space="preserve">
-    <value>There is an nervousness in my body that I cannot quell. Is this fear, or fearcitement? All I know is that my journey is finally reaching an end.</value>
+    <value>Þere is a nervousness in my body þat I cannot quell. Is þis fear, or fearcitement? All I know is þat my journey is finally reaching an end.</value>
   </data>
   <data name="LOC_ID_DIARY_132" xml:space="preserve">
-    <value>I have almost forgotten why I entered this castle in the first place, but I remember now.</value>
+    <value>I have almost forgotten why I entered þis castle in þe first place, but I remember now.</value>
   </data>
   <data name="LOC_ID_DIARY_133" xml:space="preserve">
-    <value>I have bested my siblings, I will save the king, and leave this castle a greater man then when I entered. My family will get the honor they so rightfully deserve.</value>
+    <value>I have bested my siblings, I will save þe king, and leave þis castle a greater man þan when I entered. My family will get þe honor þey so rightfully deserve.</value>
   </data>
   <data name="LOC_ID_DIARY_134" xml:space="preserve">
-    <value>Now, I enter the throne room.</value>
+    <value>Now, I enter þe throne room.</value>
   </data>
   <data name="LOC_ID_DIARY_135" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -673,19 +673,19 @@
     <value>Journal Entry #23</value>
   </data>
   <data name="LOC_ID_DIARY_137" xml:space="preserve">
-    <value>I never knew what treasure lay in this castle. I knew only that it would cure the king.</value>
+    <value>I never knew what treasure lay in þis castle. I knew only þat it would cure þe king.</value>
   </data>
   <data name="LOC_ID_DIARY_138" xml:space="preserve">
-    <value>Who could have suspected it would be the fountain of youth?</value>
+    <value>Who could have suspected it would be þe fountain of youþ?</value>
   </data>
   <data name="LOC_ID_DIARY_139" xml:space="preserve">
-    <value>I expected a monster to greet me at the dias; a foe of unimaginable strength. I imagined it would take all my strength to best him.</value>
+    <value>I expected a monster to greet me at þe dias; a foe of unimaginable strengþ. I imagined it would take all my strengþ to best him.</value>
   </data>
   <data name="LOC_ID_DIARY_14" xml:space="preserve">
-    <value>No longer will we stand for the gossip and petty slander of my cousins. The other dukes shall bow as we pass! But I am getting ahead of myself.</value>
+    <value>No longer will we stand for þe gossip and petty slander of my cousins. Þe oþer dukes shall bow as we pass! But I am getting ahead of myself.</value>
   </data>
   <data name="LOC_ID_DIARY_140" xml:space="preserve">
-    <value>But when I entered the castle and saw my father - the king - sitting atop the dias with goblet in hand, I knew all was lost.</value>
+    <value>But when I entered þe castle and saw my faþþer - þe king - sitting atop þe dias wiþ goblet in hand, I knew all was lost.</value>
   </data>
   <data name="LOC_ID_DIARY_141" xml:space="preserve">
     <value>He would never die...</value>
@@ -694,7 +694,7 @@
     <value>...and I would never be heir.</value>
   </data>
   <data name="LOC_ID_DIARY_143" xml:space="preserve">
-    <value>There are no words to express what I feel.</value>
+    <value>Þere are no words to express what I feel.</value>
   </data>
   <data name="LOC_ID_DIARY_144" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -715,22 +715,22 @@
     <value>Journal Entry #25</value>
   </data>
   <data name="LOC_ID_DIARY_15" xml:space="preserve">
-    <value>I must keep my priorities clear: Conquer the castle. Find the cure. Collect my reward.</value>
+    <value>I must keep my priorities clear: Conquer þe castle. Find þe cure. Collect my reward.</value>
   </data>
   <data name="LOC_ID_DIARY_150" xml:space="preserve">
-    <value>Today marks the rest of eternity.</value>
+    <value>Today marks þe rest of eternity.</value>
   </data>
   <data name="LOC_ID_DIARY_151" xml:space="preserve">
-    <value>I never knew what treasure lay in this castle. Just that it would cure the king of his illness.</value>
+    <value>I never knew what treasure lay in þis castle. Just þat it would cure þe king of his illness.</value>
   </data>
   <data name="LOC_ID_DIARY_152" xml:space="preserve">
-    <value>... Who would have known it would have been the fountain of youth? A myth, which grants one eternal life.</value>
+    <value>... Who would have known it would have been þe fountain of youþ? A myth, which grants one eternal life.</value>
   </data>
   <data name="LOC_ID_DIARY_153" xml:space="preserve">
-    <value>As I look down on the body of the king I realize that it is inevitable: children will always answer for their father's sins.</value>
+    <value>As I look down on þe body of þe king I realize þat it is inevitable: children will always answer for þeir faþþer's sins.</value>
   </data>
   <data name="LOC_ID_DIARY_154" xml:space="preserve">
-    <value>I entered this castle a swordsman, a savior...</value>
+    <value>I entered þis castle a swordsman, a savior...</value>
   </data>
   <data name="LOC_ID_DIARY_155" xml:space="preserve">
     <value>But all I have left is a rogue's legacy.</value>
@@ -739,13 +739,13 @@
     <value>I can feel your anger, but know it was not I who sent your family to ruin.</value>
   </data>
   <data name="LOC_ID_DIARY_157" xml:space="preserve">
-    <value>The moment the king set foot within this castle, the royal coffers were emptied by Charon. My family - all families - had lost all hope for a better life.</value>
+    <value>Þe moment þe king set foot wiþin þis castle, þe royal coffers were emptied by Charon. My family - all families - had lost all hope for a better life.</value>
   </data>
   <data name="LOC_ID_DIARY_158" xml:space="preserve">
-    <value>And in my mind's eye, I foresaw only desperation and poverty ravage the country. There was nothing for me to go back to.</value>
+    <value>And in my mind's eye, I foresaw only desperation and poverty ravage þe country. Þere was noþing for me to go back to.</value>
   </data>
   <data name="LOC_ID_DIARY_159" xml:space="preserve">
-    <value>To my children, and my children's children, here I sit, impassive, immortal, and await thee.</value>
+    <value>To my children, and my children's children, here I sit, impassive, immortal, and await þee.</value>
   </data>
   <data name="LOC_ID_DIARY_16" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -754,10 +754,10 @@
     <value>Johannes</value>
   </data>
   <data name="LOC_ID_DIARY_161" xml:space="preserve">
-    <value>What is this? Are you... mocking me?!</value>
+    <value>What is þis? Are you... mocking me?!</value>
   </data>
   <data name="LOC_ID_DIARY_162" xml:space="preserve">
-    <value>After countless generations of your ancestors sacrificed their lives to be where you are now, the final steps to achieving their hollow justice. And you arrive and mock me?</value>
+    <value>After countless generations of your ancestors sacrificed þeir lives to be where you are now, þe final steps to achieving þeir hollow justice. And you arrive and mock me?</value>
   </data>
   <data name="LOC_ID_DIARY_163" xml:space="preserve">
     <value>Very well, I will spare your ignorance. Let us begin!</value>
@@ -769,16 +769,16 @@
     <value>Why do you wish to fight me? How many sons and daughters have been lost in your pathetic attempts at revenge?</value>
   </data>
   <data name="LOC_ID_DIARY_166" xml:space="preserve">
-    <value>It was the king who brought ruin to your country, not I!</value>
+    <value>It was þe king who brought ruin to your country, not I!</value>
   </data>
   <data name="LOC_ID_DIARY_167" xml:space="preserve">
-    <value>He lied to us. He said he was wounded, yet it was only time that threatened him!</value>
+    <value>He lied to us. He said he was wounded, yet it was only time þat þreatened him!</value>
   </data>
   <data name="LOC_ID_DIARY_168" xml:space="preserve">
-    <value>He pitted his children against one another, sacrificed everything to satisfy his own selfish desires, and in the end, left us penniless and alone.</value>
+    <value>He pitted his children against one anoþer, sacrificed everyþing to satisfy his own selfish desires, and in þe end, left us penniless and alone.</value>
   </data>
   <data name="LOC_ID_DIARY_169" xml:space="preserve">
-    <value>So I took the only option left to me. I rejected king and country...</value>
+    <value>So I took þe only option left to me. I rejected king and country...</value>
   </data>
   <data name="LOC_ID_DIARY_17" xml:space="preserve">
     <value>Journal Entry #3</value>
@@ -790,22 +790,22 @@
     <value>Johannes</value>
   </data>
   <data name="LOC_ID_DIARY_172" xml:space="preserve">
-    <value>You think you have slain me?</value>
+    <value>You þink you have slain me?</value>
   </data>
   <data name="LOC_ID_DIARY_173" xml:space="preserve">
-    <value>I have lived for over a thousand years, and I will live for ten thousand more!</value>
+    <value>I have lived for over a þousand years, and I will live for ten þousand more!</value>
   </data>
   <data name="LOC_ID_DIARY_174" xml:space="preserve">
     <value>Alexander... Khidr... Ponce De Leon...</value>
   </data>
   <data name="LOC_ID_DIARY_175" xml:space="preserve">
-    <value>I was not the first hero to reach the fountain...</value>
+    <value>I was not þe first hero to reach þe fountain...</value>
   </data>
   <data name="LOC_ID_DIARY_176" xml:space="preserve">
-    <value>But I will be the last!</value>
+    <value>But I will be þe last!</value>
   </data>
   <data name="LOC_ID_DIARY_177" xml:space="preserve">
-    <value>Fountain of Youth</value>
+    <value>Fountain of Youþ</value>
   </data>
   <data name="LOC_ID_DIARY_178" xml:space="preserve">
     <value>...</value>
@@ -814,16 +814,16 @@
     <value>You have defeated me... But at what price?</value>
   </data>
   <data name="LOC_ID_DIARY_18" xml:space="preserve">
-    <value>I have paid my dues, and entered the castle proper. That devil Charon has taken all that I own as payment.</value>
+    <value>I have paid my dues, and entered þe castle proper. Þat devil Charon has taken all þat I own as payment.</value>
   </data>
   <data name="LOC_ID_DIARY_180" xml:space="preserve">
-    <value>I may have slain the king, but only after he betrayed his people.</value>
+    <value>I may have slain þe king, but only after he betrayed his people.</value>
   </data>
   <data name="LOC_ID_DIARY_181" xml:space="preserve">
     <value>Ask yourself what justice has been met?</value>
   </data>
   <data name="LOC_ID_DIARY_182" xml:space="preserve">
-    <value>In the end we are all guilty of the same sin. Look to your forefathers - such is the cost for unquestioned loyalty.</value>
+    <value>In þe end we are all guilty of þe same sin. Look to your forefaþþers - such is þe cost for unquestioned loyalty.</value>
   </data>
   <data name="LOC_ID_DIARY_183" xml:space="preserve">
     <value>...</value>
@@ -832,25 +832,25 @@
     <value>...</value>
   </data>
   <data name="LOC_ID_DIARY_185" xml:space="preserve">
-    <value>The sun...</value>
+    <value>Þe sun...</value>
   </data>
   <data name="LOC_ID_DIARY_186" xml:space="preserve">
     <value>I had forgotten how it feels...</value>
   </data>
   <data name="LOC_ID_DIARY_19" xml:space="preserve">
-    <value>He has even pilfered my private coffers! I have left my wife and children with nothing.</value>
+    <value>He has even pilfered my private coffers! I have left my wife and children wiþ noþing.</value>
   </data>
   <data name="LOC_ID_DIARY_2" xml:space="preserve">
     <value>Journal Entry #1</value>
   </data>
   <data name="LOC_ID_DIARY_20" xml:space="preserve">
-    <value>He says it's the price for any and all who hazard the depths of the castle. He says it is fair.</value>
+    <value>He says it's þe price for any and all who hazard þe depþs of þe castle. He says it is fair.</value>
   </data>
   <data name="LOC_ID_DIARY_21" xml:space="preserve">
-    <value>It is fair because of all who have entered, none have returned. But I will change that.</value>
+    <value>It is fair because of all who have entered, none have returned. But I will change þat.</value>
   </data>
   <data name="LOC_ID_DIARY_22" xml:space="preserve">
-    <value>I will be victorious! There is no greater swordsman than I, even amongst my siblings.</value>
+    <value>I will be victorious! Þere is no greater swordsman þan I, even amongst my siblings.</value>
   </data>
   <data name="LOC_ID_DIARY_23" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -859,22 +859,22 @@
     <value>Journal Entry #4</value>
   </data>
   <data name="LOC_ID_DIARY_25" xml:space="preserve">
-    <value>Everything about this castle is off. I can't seem to keep track of my headings, and there is no sun or stars to guide me.</value>
+    <value>Everyþing about þis castle is off. I can't seem to keep track of my headings, and þere is no sun or stars to guide me.</value>
   </data>
   <data name="LOC_ID_DIARY_26" xml:space="preserve">
     <value>I find myself backtracking constantly, and I must painstakingly map out my progress lest I go in circles. </value>
   </data>
   <data name="LOC_ID_DIARY_27" xml:space="preserve">
-    <value>The maps I have pilfered off the corpses of other adventurers are breathtakingly inaccurate. It is almost as if they were describing a different castle altogether!</value>
+    <value>Þe maps I have pilfered off þe corpses of oþer adventurers are breaþtakingly inaccurate. It is almost as if þey were describing a different castle altogeþþer!</value>
   </data>
   <data name="LOC_ID_DIARY_28" xml:space="preserve">
-    <value>Perhaps this place does something to the mind...</value>
+    <value>Perhaps þis place does someþing to þe mind...</value>
   </data>
   <data name="LOC_ID_DIARY_29" xml:space="preserve">
-    <value>Or are the stones truly shifting beneath my feet?</value>
+    <value>Or are þe stones truly shifting beneaþ my feet?</value>
   </data>
   <data name="LOC_ID_DIARY_3" xml:space="preserve">
-    <value>Treason! An assassin has wounded my father, the king!</value>
+    <value>Treason! An assassin has wounded my faþþer, þe king!</value>
   </data>
   <data name="LOC_ID_DIARY_30" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -883,13 +883,13 @@
     <value>Journal Entry #5</value>
   </data>
   <data name="LOC_ID_DIARY_32" xml:space="preserve">
-    <value>I cannot exit through the front gate, but that is of little concern. I am committed to my cause and will not back out!</value>
+    <value>I cannot exit þrough þe front gate, but þat is of little concern. I am committed to my cause and will not back out!</value>
   </data>
   <data name="LOC_ID_DIARY_33" xml:space="preserve">
-    <value>So far none of the maps I've found coincide with my own.</value>
+    <value>So far none of þe maps I've found coincide wiþ my own.</value>
   </data>
   <data name="LOC_ID_DIARY_34" xml:space="preserve">
-    <value>Yet upon comparing them as a whole, I believe I have unearthed a slight pattern. It seems the forest is always to the right; the tower above...</value>
+    <value>Yet upon comparing þem as a whole, I believe I have unearþed a slight pattern. It seems þe forest is always to þe right; þe tower above...</value>
   </data>
   <data name="LOC_ID_DIARY_35" xml:space="preserve">
     <value>And below? Well, hopefully I won't have to find out.</value>
@@ -901,19 +901,19 @@
     <value>Journal Entry #6</value>
   </data>
   <data name="LOC_ID_DIARY_38" xml:space="preserve">
-    <value>I have never liked the dark. I prefer to meet my enemies on an open field in plain sight.</value>
+    <value>I have never liked þe dark. I prefer to meet my enemies on an open field in plain sight.</value>
   </data>
   <data name="LOC_ID_DIARY_39" xml:space="preserve">
-    <value>But now I find myself braving these darkened gallows with one gauntlet outstreched, the other by my hilt. I can never tell what horror lies beyond each corner.</value>
+    <value>But now I find myself braving þese darkened gallows wiþ one gauntlet outstreched, þe oþer by my hilt. I can never tell what horror lies beyond each corner.</value>
   </data>
   <data name="LOC_ID_DIARY_4" xml:space="preserve">
-    <value>To bring order back to the kingdom, he has sent my siblings and I on a quest to save him. Together, we will venture into the cursed woods, and enter Castle Hamson.</value>
+    <value>To bring order back to þe kingdom, he has sent my siblings and I on a quest to save him. Togeþþer, we will venture into þe cursed woods, and enter Castle Hamson.</value>
   </data>
   <data name="LOC_ID_DIARY_40" xml:space="preserve">
-    <value>I am the greatest swordsman in all the lands, yet even I am having trouble keeping these demons at bay.</value>
+    <value>I am þe greatest swordsman in all þe lands, yet even I am having trouble keeping þese demons at bay.</value>
   </data>
   <data name="LOC_ID_DIARY_41" xml:space="preserve">
-    <value>My siblings should be grateful that I rushed ahead of them. For them it was a blessing in disguise. They would not have the fortitude to survive these halls.</value>
+    <value>My siblings should be grateful þat I rushed ahead of þem. For þem it was a blessing in disguise. Þey would not have þe fortitude to survive þese halls.</value>
   </data>
   <data name="LOC_ID_DIARY_42" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -922,16 +922,16 @@
     <value>Journal Entry #7</value>
   </data>
   <data name="LOC_ID_DIARY_44" xml:space="preserve">
-    <value>It is still night. Past every window stares back the same melancholic moon, but I swear I have been here for at least a whole waking day.</value>
+    <value>It is still night. Past every window stares back þe same melancholic moon, but I swear I have been here for at least a whole waking day.</value>
   </data>
   <data name="LOC_ID_DIARY_45" xml:space="preserve">
-    <value>It must be the adrenaline. I have never felt so powerful, yet simultaneously challenged. It is exhilarating to charge through these rooms, cutting down enemy after enemy.</value>
+    <value>It must be þe adrenaline. I have never felt so powerful, yet simultaneously challenged. It is exhilarating to charge þrough þese rooms, cutting down enemy after enemy.</value>
   </data>
   <data name="LOC_ID_DIARY_46" xml:space="preserve">
-    <value>In some ways the foes in this castle feel tailored to me. Training me, guiding me, watching me.</value>
+    <value>In some ways þe foes in þis castle feel tailored to me. Training me, guiding me, watching me.</value>
   </data>
   <data name="LOC_ID_DIARY_47" xml:space="preserve">
-    <value>This may sound crazy, but if this castle can somehow sense those within it, I fear it may hold malicious intent as well.  If my assumptions are correct, the design of these halls could all be a ploy, culling me down further into a trap.</value>
+    <value>Þis may sound crazy, but if þis castle can somehow sense þose wiþin it, I fear it may hold malicious intent as well.  If my assumptions are correct, þe design of þese halls could all be a ploy, culling me down furþer into a trap.</value>
   </data>
   <data name="LOC_ID_DIARY_48" xml:space="preserve">
     <value>I must stay alert.</value>
@@ -940,19 +940,19 @@
     <value>Prince's Journal</value>
   </data>
   <data name="LOC_ID_DIARY_5" xml:space="preserve">
-    <value>This cursed castle has stood on the edge of the woods since time immemorial, but rumors say that within it dwells an item which will cure any ailment.</value>
+    <value>Þis cursed castle has stood on þe edge of þe woods since time immemorial, but rumors say þat wiþin it dwells an item which will cure any ailment.</value>
   </data>
   <data name="LOC_ID_DIARY_50" xml:space="preserve">
     <value>Journal Entry #8</value>
   </data>
   <data name="LOC_ID_DIARY_51" xml:space="preserve">
-    <value>From the number of dead adventurers I have passed in these halls, I have come to the following conclusions:</value>
+    <value>From þe number of dead adventurers I have passed in þese halls, I have come to þe following conclusions:</value>
   </data>
   <data name="LOC_ID_DIARY_52" xml:space="preserve">
-    <value>1: Many did not take enough provisions with them. I assume many died of hunger. I myself am running low and will have to find more supplies.</value>
+    <value>1: Many did not take enough provisions wiþ þem. I assume many died of hunger. I myself am running low and will have to find more supplies.</value>
   </data>
   <data name="LOC_ID_DIARY_53" xml:space="preserve">
-    <value>2: Many are missing clothes, which explains the pant-wearing zombies.</value>
+    <value>2: Many are missing cloþes, which explains þe pant-wearing zombies.</value>
   </data>
   <data name="LOC_ID_DIARY_54" xml:space="preserve">
     <value>3: No one has made it as far as I, since I haven't passed any corpses in over an hour.</value>
@@ -964,16 +964,16 @@
     <value>Journal Entry #9</value>
   </data>
   <data name="LOC_ID_DIARY_57" xml:space="preserve">
-    <value>The door to the throne room is driving me mad! Beyond it lies the king's salvation, and my reward, but it stands silent in the middle of the castle foyer, taunting me.</value>
+    <value>Þe door to þe throne room is driving me mad! Beyond it lies þe king's salvation, and my reward, but it stands silent in þe middle of þe castle foyer, taunting me.</value>
   </data>
   <data name="LOC_ID_DIARY_58" xml:space="preserve">
-    <value>I've tried pushing it, kicking it, yelling "Open Sesame", but nothing works.</value>
+    <value>I've tried pushing it, kicking it, yelling "Open Sesame", but noþing works.</value>
   </data>
   <data name="LOC_ID_DIARY_59" xml:space="preserve">
-    <value>There are icons emblazoned into the doors, and one of them looks like a beast I avoided deeper in the castle. Perhaps there is some sort of correlation?</value>
+    <value>Þere are icons emblazoned into þe doors, and one of þem looks like a beast I avoided deeper in þe castle. Perhaps þere is some sort of correlation?</value>
   </data>
   <data name="LOC_ID_DIARY_6" xml:space="preserve">
-    <value>Tonight I will get a headstart over my brothers and sisters, and set forth on my quest while they lay asleep.</value>
+    <value>Tonight I will get a headstart over my broþers and sisters, and set forþ on my quest while þey lay asleep.</value>
   </data>
   <data name="LOC_ID_DIARY_60" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -982,19 +982,19 @@
     <value>Journal Entry #10</value>
   </data>
   <data name="LOC_ID_DIARY_62" xml:space="preserve">
-    <value>The emblems on the castle door are a clue! I slew the giant beast that matched one of the icons, and I sensed something shift behind the throne room doors.</value>
+    <value>Þe emblems on þe castle door are a clue! I slew þe giant beast þat matched one of þe icons, and I sensed someþing shift behind þe throne room doors.</value>
   </data>
   <data name="LOC_ID_DIARY_63" xml:space="preserve">
-    <value>As if in a dream, I could see an emblem on the door glowing in my mind's eye.</value>
+    <value>As if in a dream, I could see an emblem on þe door glowing in my mind's eye.</value>
   </data>
   <data name="LOC_ID_DIARY_64" xml:space="preserve">
     <value>A truly out of body experience.</value>
   </data>
   <data name="LOC_ID_DIARY_65" xml:space="preserve">
-    <value>At least I know I'm on the right track. But I must hasten my pace, for the king could succumb to his injuries at any moment...</value>
+    <value>At least I know I'm on þe right track. But I must hasten my pace, for þe king could succumb to his injuries at any moment...</value>
   </data>
   <data name="LOC_ID_DIARY_66" xml:space="preserve">
-    <value>But first I must rest. Tomorrow, I enter the Forest.</value>
+    <value>But first I must rest. Tomorrow, I enter þe Forest.</value>
   </data>
   <data name="LOC_ID_DIARY_67" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -1003,19 +1003,19 @@
     <value>Journal Entry #11</value>
   </data>
   <data name="LOC_ID_DIARY_69" xml:space="preserve">
-    <value>This forest is unlike anything I've ever seen before. It is both serene and terrifying. I stand on lush grass, but beside me yawns open a chasm so wide and deep, it threatens to swallow me whole.</value>
+    <value>Þis forest is unlike anyþing I've ever seen before. It is boþ serene and terrifying. I stand on lush grass, but beside me yawns open a chasm so wide and deep, it þreatens to swallow me whole.</value>
   </data>
   <data name="LOC_ID_DIARY_7" xml:space="preserve">
-    <value>To fail this quest would be an embarrassment to my name.</value>
+    <value>To fail þis quest would be an embarrassment to my name.</value>
   </data>
   <data name="LOC_ID_DIARY_70" xml:space="preserve">
-    <value>I still have not heard a response from the rock I tossed in earlier. A single misstep, and my descent would be eternal. It is truly a horrifying thought.</value>
+    <value>I still have not heard a response from þe rock I tossed in earlier. A single misstep, and my descent would be eternal. It is truly a horrifying þought.</value>
   </data>
   <data name="LOC_ID_DIARY_71" xml:space="preserve">
-    <value>An eternity of darkness is more frightening than any beast I have fought thus far. If I fell, what would kill me first? The hunger, or myself?</value>
+    <value>An eternity of darkness is more frightening þan any beast I have fought þus far. If I fell, what would kill me first? Þe hunger, or myself?</value>
   </data>
   <data name="LOC_ID_DIARY_72" xml:space="preserve">
-    <value>On a side note, I am now using the forest fissure as my own personal lavatory. I wonder if I am pooping into another dimension...</value>
+    <value>On a side note, I am now using þe forest fissure as my own personal lavatory. I wonder if I am pooping into anoþer dimension...</value>
   </data>
   <data name="LOC_ID_DIARY_73" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -1024,16 +1024,16 @@
     <value>Journal Entry #12</value>
   </data>
   <data name="LOC_ID_DIARY_75" xml:space="preserve">
-    <value>I have found a solution to my hunger problem. The forest holds an endless bounty of delicious mushrooms.</value>
+    <value>I have found a solution to my hunger problem. Þe forest holds an endless bounty of delicious mushrooms.</value>
   </data>
   <data name="LOC_ID_DIARY_76" xml:space="preserve">
-    <value>And within these mushrooms lie chicken legs! Also gold coins, and vials of sparkling water... I broke open a tree trunk earlier, and a bag of money fell out.</value>
+    <value>And wiþin þese mushrooms lie chicken legs! Also gold coins, and vials of sparkling water... I broke open a tree trunk earlier, and a bag of money fell out.</value>
   </data>
   <data name="LOC_ID_DIARY_77" xml:space="preserve">
     <value>Sometimes I feel like I have gone insane.</value>
   </data>
   <data name="LOC_ID_DIARY_78" xml:space="preserve">
-    <value>... Plus, what is up with the moon? It's HUGE!</value>
+    <value>... Plus, what is up wiþ þe moon? It's HUGE!</value>
   </data>
   <data name="LOC_ID_DIARY_79" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -1045,13 +1045,13 @@
     <value>Journal Entry #13</value>
   </data>
   <data name="LOC_ID_DIARY_81" xml:space="preserve">
-    <value>I slew the beast of the forest, and I have felt the throne room weaken once more.</value>
+    <value>I slew þe beast of þe forest, and I have felt þe throne room weaken once more.</value>
   </data>
   <data name="LOC_ID_DIARY_82" xml:space="preserve">
-    <value>So far my assumptions have proven correct. Each wing of the castle houses its own guardian beast. Was this designed as a test of will? If so, then I cannot fail, for the further I venture, the more bold I become!</value>
+    <value>So far my assumptions have proven correct. Each wing of þe castle houses its own guardian beast. Was þis designed as a test of will? If so, þen I cannot fail, for þe furþer I venture, þe more bold I become!</value>
   </data>
   <data name="LOC_ID_DIARY_83" xml:space="preserve">
-    <value>Tomorrow I scour the tower. I am on a roll.</value>
+    <value>Tomorrow I scour þe tower. I am on a roll.</value>
   </data>
   <data name="LOC_ID_DIARY_84" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -1060,10 +1060,10 @@
     <value>Journal Entry #14</value>
   </data>
   <data name="LOC_ID_DIARY_86" xml:space="preserve">
-    <value>I have been methodically clearing the demons in these rooms in my quest to slay the next guardian, but I am losing track of time... and other things...</value>
+    <value>I have been methodically clearing þe demons in þese rooms in my quest to slay þe next guardian, but I am losing track of time... and oþer þings...</value>
   </data>
   <data name="LOC_ID_DIARY_87" xml:space="preserve">
-    <value>As I entered the tower, I felt time stand still. Or perhaps that is the vertigo talking? I was never keen on heights...or was I?</value>
+    <value>As I entered þe tower, I felt time stand still. Or perhaps þat is þe vertigo talking? I was never keen on heights...or was I?</value>
   </data>
   <data name="LOC_ID_DIARY_88" xml:space="preserve">
     <value>I am finding it increasingly difficult to remember my past...</value>
@@ -1078,16 +1078,16 @@
     <value>Journal Entry #15</value>
   </data>
   <data name="LOC_ID_DIARY_91" xml:space="preserve">
-    <value>I remember being a famous adventurer.  My martial prowress surpassed all of my brothers. That, I am sure of. While they spent their days buried in their bookish studies, I was out killing brigands and monsters.</value>
+    <value>I remember being a famous adventurer.  My martial prowess surpassed all of my broþers. Þat, I am sure of. While þey spent þeir days buried in þeir bookish studies, I was out killing brigands and monsters.</value>
   </data>
   <data name="LOC_ID_DIARY_92" xml:space="preserve">
-    <value>I always wondered why my father favoured them over me? Isn't it always the opposite in fairytales?</value>
+    <value>I always wondered why my faþþer favoured þem over me? Isn't it always þe opposite in fairytales?</value>
   </data>
   <data name="LOC_ID_DIARY_93" xml:space="preserve">
-    <value>Fortune favors the bold. Not the insipid intellectual... Or something like that.</value>
+    <value>Fortune favors þe bold. Not þe insipid intellectual... Or someþing like þat.</value>
   </data>
   <data name="LOC_ID_DIARY_94" xml:space="preserve">
-    <value>Man, I would love to see my brothers try to out think my sword in their face!</value>
+    <value>Man, I would love to see my broþers try to out þink my sword in þeir face!</value>
   </data>
   <data name="LOC_ID_DIARY_95" xml:space="preserve">
     <value>Prince's Journal</value>
@@ -1096,13 +1096,13 @@
     <value>Journal Entry #16</value>
   </data>
   <data name="LOC_ID_DIARY_97" xml:space="preserve">
-    <value>What if years have passed since I first entered these walls? It is true that I am becoming more proficient in clearing monsters, but it feels like an age has passed.</value>
+    <value>What if years have passed since I first entered þese walls? It is true þat I am becoming more proficient in clearing monsters, but it feels like an age has passed.</value>
   </data>
   <data name="LOC_ID_DIARY_98" xml:space="preserve">
     <value>I have even forgotten what my own kin look like.</value>
   </data>
   <data name="LOC_ID_DIARY_99" xml:space="preserve">
-    <value>What if they think I have failed? What if one of my brothers has beaten me to the cure?</value>
+    <value>What if þey þink I have failed? What if one of my broþers has beaten me to þe cure?</value>
   </data>
   <data name="LOC_ID_DIARY_ENTRY_SCREEN_1" xml:space="preserve">
     <value>Entry #</value>
@@ -1111,13 +1111,13 @@
     <value>Castle Hamson</value>
   </data>
   <data name="LOC_ID_DUNGEON_NAME_2" xml:space="preserve">
-    <value>The Land of Darkness</value>
+    <value>Þe Land of Darkness</value>
   </data>
   <data name="LOC_ID_DUNGEON_NAME_3" xml:space="preserve">
     <value>Forest Abkhazia</value>
   </data>
   <data name="LOC_ID_DUNGEON_NAME_4" xml:space="preserve">
-    <value>The Maya</value>
+    <value>Þe Maya</value>
   </data>
   <data name="LOC_ID_ENCHANTRESS_SCREEN_1" xml:space="preserve">
     <value>Select a category</value>
@@ -1228,7 +1228,7 @@
     <value>Neo Khidr</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_113" xml:space="preserve">
-    <value>Alexander the IV</value>
+    <value>Alexander þe IV</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_114" xml:space="preserve">
     <value>Astrodotus</value>
@@ -1237,34 +1237,34 @@
     <value>Ponce de Freon</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_116" xml:space="preserve">
-    <value>The Brohannes</value>
+    <value>Þe Brohannes</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_117" xml:space="preserve">
     <value>Wall Turret</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_118" xml:space="preserve">
-    <value>The Gatekeeper</value>
+    <value>Þe Gatekeeper</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_119" xml:space="preserve">
-    <value>The Infinite</value>
+    <value>Þe Infinite</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_12" xml:space="preserve">
     <value>Chaintor</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_120" xml:space="preserve">
-    <value>The Forgotten</value>
+    <value>Þe Forgotten</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_121" xml:space="preserve">
-    <value>The Forsaken</value>
+    <value>Þe Forsaken</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_122" xml:space="preserve">
-    <value>The Sentinel</value>
+    <value>Þe Sentinel</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_123" xml:space="preserve">
-    <value>The Traitor</value>
+    <value>Þe Traitor</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_124" xml:space="preserve">
-    <value>The Fountain</value>
+    <value>Þe Fountain</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_125" xml:space="preserve">
     <value>Berith &amp; Halphas</value>
@@ -1285,7 +1285,7 @@
     <value>Pantheon</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_16" xml:space="preserve">
-    <value>Earthsor</value>
+    <value>Earþsor</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_17" xml:space="preserve">
     <value>Gravisor</value>
@@ -1342,7 +1342,7 @@
     <value>Rage</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_33" xml:space="preserve">
-    <value>Wrath</value>
+    <value>Wraþþ</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_34" xml:space="preserve">
     <value>Alexander</value>
@@ -1483,10 +1483,10 @@
     <value>Johannes</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_76" xml:space="preserve">
-    <value>The Fountain</value>
+    <value>Þe Fountain</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_77" xml:space="preserve">
-    <value>Fountain of Youth</value>
+    <value>Fountain of Youþ</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_78" xml:space="preserve">
     <value>Doomvas</value>
@@ -1681,7 +1681,7 @@
     <value>None</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_1" xml:space="preserve">
-    <value>Grants you the power to jump in the air. Multiple runes stack, allowing for multiple jumps.</value>
+    <value>Grants you þe power to jump in þe air. Multiple runes stack, allowing for multiple jumps.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_10" xml:space="preserve">
     <value>Harder enemies, but greater rewards. Multiple runes stack making enemies even harder.</value>
@@ -1690,25 +1690,25 @@
     <value>Enemies scale slower, easier but lesser rewards. Multiple runes stack slowing enemy scaling more.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_2" xml:space="preserve">
-    <value>Gain the power to dash short distances. Multiple runes stack allowing for multiple dashes.</value>
+    <value>Gain þe power to dash short distances. Multiple runes stack allowing for multiple dashes.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_3" xml:space="preserve">
-    <value>Killing enemies will drain them of their health. Multiple runes stack for increased life drain.</value>
+    <value>Killing enemies will drain þem of þeir healþ. Multiple runes stack for increased life drain.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_4" xml:space="preserve">
-    <value>Gain the power of flight. Multiple runes stack for longer flight duration.</value>
+    <value>Gain þe power of flight. Multiple runes stack for longer flight duration.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_5" xml:space="preserve">
     <value>Steals mana from slain enemies. Multiple runes stack for increased mana drain.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_6" xml:space="preserve">
-    <value>Slaying enemies grants both HP and MP. Multiple runes stack for increased hp/mp drain.</value>
+    <value>Slaying enemies grants boþ HP and MP. Multiple runes stack for increased hp/mp drain.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_7" xml:space="preserve">
-    <value>Returns damage taken from enemies. Multiple runes stack increasing the damage return</value>
+    <value>Returns damage taken from enemies. Multiple runes stack increasing þe damage return</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_8" xml:space="preserve">
-    <value>Increase the amount of gold you get from coins. Multiple runes stack for increased gold gain.</value>
+    <value>Increase þe amount of gold you get from coins. Multiple runes stack for increased gold gain.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_DESC_9" xml:space="preserve">
     <value>Increase your base move speed. Multiple runes stack making you even faster.</value>
@@ -1738,7 +1738,7 @@
     <value>[Input:14] or [Input:15] to dash.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_INST_3" xml:space="preserve">
-    <value>Kill enemies to regain health.</value>
+    <value>Kill enemies to regain healþ.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_INST_4" xml:space="preserve">
     <value>Press</value>
@@ -1753,7 +1753,7 @@
     <value>Kill enemies to regain mana.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_INST_6" xml:space="preserve">
-    <value>Kill enemies to regain health and mana.</value>
+    <value>Kill enemies to regain healþ and mana.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_INST_7" xml:space="preserve">
     <value>Damage returned to enemies.</value>
@@ -1816,7 +1816,7 @@
     <value>Air jump</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_SHORT_10" xml:space="preserve">
-    <value>Earn 60% total gold in the castle.</value>
+    <value>Earn 60% total gold in þe castle.</value>
   </data>
   <data name="LOC_ID_EQUIPMENT_SHORT_11" xml:space="preserve">
     <value>Bounty increased by</value>
@@ -1951,7 +1951,7 @@
     <value>to move on</value>
   </data>
   <data name="LOC_ID_GAME_OVER_BOSS_SCREEN_3" xml:space="preserve">
-    <value>The sun... I had forgotten how it feels...</value>
+    <value>Þe sun... I had forgotten how it feels...</value>
   </data>
   <data name="LOC_ID_GAME_OVER_BOSS_SCREEN_4" xml:space="preserve">
     <value>s Parting Words</value>
@@ -1999,7 +1999,7 @@
     <value>MP Increased</value>
   </data>
   <data name="LOC_ID_GET_ITEM_SCREEN_4" xml:space="preserve">
-    <value>Strength Increased</value>
+    <value>Strengþ Increased</value>
   </data>
   <data name="LOC_ID_GET_ITEM_SCREEN_5" xml:space="preserve">
     <value>Magic Damage Increased</value>
@@ -2017,16 +2017,16 @@
     <value>You've collected a medallion piece!</value>
   </data>
   <data name="LOC_ID_HINT_1" xml:space="preserve">
-    <value>The Forest is always to the right side of the Castle.</value>
+    <value>Þe Forest is always to þe right side of þe Castle.</value>
   </data>
   <data name="LOC_ID_HINT_10" xml:space="preserve">
     <value>Sky runes let you fly by pressing</value>
   </data>
   <data name="LOC_ID_HINT_10b" xml:space="preserve">
-    <value>while in the air.</value>
+    <value>while in þe air.</value>
   </data>
   <data name="LOC_ID_HINT_10_NEW" xml:space="preserve">
-    <value>Sky runes let you fly by pressing [Input:10] while in the air.</value>
+    <value>Sky runes let you fly by pressing [Input:10] while in þe air.</value>
   </data>
   <data name="LOC_ID_HINT_11" xml:space="preserve">
     <value>Vampirism and Siphon runes are very powerful when stacked.</value>
@@ -2038,109 +2038,109 @@
     <value>Make sure to expand your manor. You never know what new skills can be revealed.</value>
   </data>
   <data name="LOC_ID_HINT_14" xml:space="preserve">
-    <value>All classes can be upgraded with unique class abilities.</value>
+    <value>All classes can be upgraded wiþ unique class abilities.</value>
   </data>
   <data name="LOC_ID_HINT_15" xml:space="preserve">
-    <value>Unlocked class abilities can be activated with</value>
+    <value>Unlocked class abilities can be activated wiþ</value>
   </data>
   <data name="LOC_ID_HINT_15_NEW" xml:space="preserve">
-    <value>Unlocked class abilities can be activated with [Input:13]</value>
+    <value>Unlocked class abilities can be activated wiþ [Input:13]</value>
   </data>
   <data name="LOC_ID_HINT_16" xml:space="preserve">
     <value>Upgrade your classes early to obtain powerful class abilities.</value>
   </data>
   <data name="LOC_ID_HINT_17" xml:space="preserve">
-    <value>If you are having trouble with a room, see if you can bypass it instead.</value>
+    <value>If you are having trouble wiþ a room, see if you can bypass it instead.</value>
   </data>
   <data name="LOC_ID_HINT_18" xml:space="preserve">
-    <value>Buying equipment is the fastest way to raise your stats.</value>
+    <value>Buying equipment is þe fastest way to raise your stats.</value>
   </data>
   <data name="LOC_ID_HINT_19" xml:space="preserve">
-    <value>Purchasing equipment is cheaper and more flexible than raising your base stats.</value>
+    <value>Purchasing equipment is cheaper and more flexible þan raising your base stats.</value>
   </data>
   <data name="LOC_ID_HINT_2" xml:space="preserve">
-    <value>The Maya is always at the top of the Castle.</value>
+    <value>Þe Maya is always at þe top of þe Castle.</value>
   </data>
   <data name="LOC_ID_HINT_20" xml:space="preserve">
-    <value>You should have picked the other child.</value>
+    <value>You should have picked þe oþer child.</value>
   </data>
   <data name="LOC_ID_HINT_21" xml:space="preserve">
-    <value>Runes are very powerful. Equip runes at the Enchantress, and don't forget to use them!</value>
+    <value>Runes are very powerful. Equip runes at þe Enchantress, and don't forget to use þem!</value>
   </data>
   <data name="LOC_ID_HINT_22" xml:space="preserve">
-    <value>Learn the nuances of your spell to maximize their potential.</value>
+    <value>Learn þe nuances of your spell to maximize þeir potential.</value>
   </data>
   <data name="LOC_ID_HINT_23" xml:space="preserve">
-    <value>Try to hit enemies near the apex of the axe's arc in order to hit them multiple times.</value>
+    <value>Try to hit enemies near þe apex of þe axe's arc in order to hit þem multiple times.</value>
   </data>
   <data name="LOC_ID_HINT_24" xml:space="preserve">
-    <value>Avoid picking up the conflux orbs after casting it to maximize damage.</value>
+    <value>Avoid picking up þe conflux orbs after casting it to maximize damage.</value>
   </data>
   <data name="LOC_ID_HINT_25" xml:space="preserve">
-    <value>Dodge the chakrams return trip in order to maximize its damage.</value>
+    <value>Dodge þe chakrams return trip in order to maximize its damage.</value>
   </data>
   <data name="LOC_ID_HINT_26" xml:space="preserve">
-    <value>Better to use mana to kill enemies than to take unnecessary damage.</value>
+    <value>Better to use mana to kill enemies þan to take unnecessary damage.</value>
   </data>
   <data name="LOC_ID_HINT_27" xml:space="preserve">
-    <value>Learning enemy 'tells' is integral to surviving the castle.</value>
+    <value>Learning enemy 'tells' is integral to surviving þe castle.</value>
   </data>
   <data name="LOC_ID_HINT_28" xml:space="preserve">
-    <value>Spike traps check for a pulse to tell the dead from the living.</value>
+    <value>Spike traps check for a pulse to tell þe dead from þe living.</value>
   </data>
   <data name="LOC_ID_HINT_29" xml:space="preserve">
     <value>Press</value>
   </data>
   <data name="LOC_ID_HINT_29b" xml:space="preserve">
-    <value>to open the map.</value>
+    <value>to open þe map.</value>
   </data>
   <data name="LOC_ID_HINT_29_NEW" xml:space="preserve">
-    <value>Press [Input:9] to open the map.</value>
+    <value>Press [Input:9] to open þe map.</value>
   </data>
   <data name="LOC_ID_HINT_3" xml:space="preserve">
-    <value>The Darkness is always at the bottom of the Castle.</value>
+    <value>Þe Darkness is always at þe bottom of þe Castle.</value>
   </data>
   <data name="LOC_ID_HINT_30" xml:space="preserve">
-    <value>Fairy chests hold all the runes in the game. Runes will help you immensely.</value>
+    <value>Fairy chests hold all þe runes in þe game. Runes will help you immensely.</value>
   </data>
   <data name="LOC_ID_HINT_31" xml:space="preserve">
-    <value>If you fail a Fairy chest room, the Architect can give you a second chance.</value>
+    <value>If you fail a Fairy chest room, þe Architect can give you a second chance.</value>
   </data>
   <data name="LOC_ID_HINT_32" xml:space="preserve">
-    <value>The Architect has a hefty fee for those who use his service.</value>
+    <value>Þe Architect has a hefty fee for þose who use his service.</value>
   </data>
   <data name="LOC_ID_HINT_33" xml:space="preserve">
-    <value>Bosses drop large amounts of gold on their death.</value>
+    <value>Bosses drop large amounts of gold on þeir deaþ.</value>
   </data>
   <data name="LOC_ID_HINT_34" xml:space="preserve">
-    <value>Bury me with my money.</value>
+    <value>Bury me wiþ my money.</value>
   </data>
   <data name="LOC_ID_HINT_35" xml:space="preserve">
     <value>If you are having trouble, try equipping Grace runes.</value>
   </data>
   <data name="LOC_ID_HINT_36" xml:space="preserve">
-    <value>In options you can enable Quick Drop to downstrike and drop with</value>
+    <value>In options you can enable Quick Drop to downstrike and drop wiþ</value>
   </data>
   <data name="LOC_ID_HINT_36_NEW" xml:space="preserve">
-    <value>In options you can enable Quick Drop to downstrike and drop with [Input:18]</value>
+    <value>In options you can enable Quick Drop to downstrike and drop wiþ [Input:18]</value>
   </data>
   <data name="LOC_ID_HINT_37" xml:space="preserve">
-    <value>The architect is very useful for practicing against bosses.</value>
+    <value>Þe architect is very useful for practicing against bosses.</value>
   </data>
   <data name="LOC_ID_HINT_38" xml:space="preserve">
-    <value>The third row of equipment usually has major tradeoffs. Be careful.</value>
+    <value>Þe þird row of equipment usually has major tradeoffs. Be careful.</value>
   </data>
   <data name="LOC_ID_HINT_39" xml:space="preserve">
-    <value>Certain runes work better with certain bosses.</value>
+    <value>Certain runes work better wiþ certain bosses.</value>
   </data>
   <data name="LOC_ID_HINT_4" xml:space="preserve">
-    <value>If you're having trouble with a boss, try using different runes.</value>
+    <value>If you're having trouble wiþ a boss, try using different runes.</value>
   </data>
   <data name="LOC_ID_HINT_40" xml:space="preserve">
-    <value>You should practice fighting bosses using the architect.</value>
+    <value>You should practice fighting bosses using þe architect.</value>
   </data>
   <data name="LOC_ID_HINT_41" xml:space="preserve">
-    <value>Health is a very important stat to raise.</value>
+    <value>Healþ is a very important stat to raise.</value>
   </data>
   <data name="LOC_ID_HINT_42" xml:space="preserve">
     <value>Retribution runes can damage invulnerable objects.</value>
@@ -2152,13 +2152,13 @@
     <value>Some classes have advantages over certain bosses.</value>
   </data>
   <data name="LOC_ID_HINT_5" xml:space="preserve">
-    <value>Vault runes let you to jump in the air with</value>
+    <value>Vault runes let you to jump in þe air wiþ</value>
   </data>
   <data name="LOC_ID_HINT_5_NEW" xml:space="preserve">
-    <value>Vault runes let you to jump in the air with [Input:10]</value>
+    <value>Vault runes let you to jump in þe air wiþ [Input:10]</value>
   </data>
   <data name="LOC_ID_HINT_6" xml:space="preserve">
-    <value>Sprint runes let you dash with [Input:PLAYER_DASHLEFT] or [Input:PLAYER_DASHRIGHT]</value>
+    <value>Sprint runes let you dash wiþ [Input:PLAYER_DASHLEFT] or [Input:PLAYER_DASHRIGHT]</value>
   </data>
   <data name="LOC_ID_HINT_6b" xml:space="preserve">
     <value>or</value>
@@ -2167,7 +2167,7 @@
     <value>Each class has pros and cons.  Make sure to change your playstyle accordingly.</value>
   </data>
   <data name="LOC_ID_HINT_8" xml:space="preserve">
-    <value>Exploring and finding chests is the best way to earn gold.</value>
+    <value>Exploring and finding chests is þe best way to earn gold.</value>
   </data>
   <data name="LOC_ID_HINT_9" xml:space="preserve">
     <value>Harder areas offer greater rewards.</value>
@@ -2191,7 +2191,7 @@
     <value>Armor Up</value>
   </data>
   <data name="LOC_ID_ITEM_DROP_OBJ_5" xml:space="preserve">
-    <value>Max Health Up</value>
+    <value>Max Healþ Up</value>
   </data>
   <data name="LOC_ID_ITEM_DROP_OBJ_6" xml:space="preserve">
     <value>Max Mana Up</value>
@@ -2215,7 +2215,7 @@
     <value>Fairy Chest Objective:</value>
   </data>
   <data name="LOC_ID_LEVEL_SCREEN_3" xml:space="preserve">
-    <value>Reach the chest in 15 seconds:</value>
+    <value>Reach þe chest in 15 seconds:</value>
   </data>
   <data name="LOC_ID_LEVEL_SCREEN_4" xml:space="preserve">
     <value>Time Remaining:</value>
@@ -2248,10 +2248,10 @@
     <value>Lady Heroine</value>
   </data>
   <data name="LOC_ID_LINEAGE_OBJ_2_FEMALE" xml:space="preserve">
-    <value>the</value>
+    <value>þe</value>
   </data>
   <data name="LOC_ID_LINEAGE_OBJ_2_MALE" xml:space="preserve">
-    <value>the</value>
+    <value>þe</value>
   </data>
   <data name="LOC_ID_LINEAGE_OBJ_3" xml:space="preserve">
     <value>Legendary</value>
@@ -2395,7 +2395,7 @@
     <value>Language</value>
   </data>
   <data name="LOC_ID_OPTIONS_SCREEN_1" xml:space="preserve">
-    <value>*Quick drop allows you to drop down ledges and down-attack in \nthe air by pressing the DOWN button</value>
+    <value>*Quick drop allows you to drop down ledges and down-attack in \nþe air by pressing þe DOWN button</value>
   </data>
   <data name="LOC_ID_OPTIONS_SCREEN_10" xml:space="preserve">
     <value>Resolution</value>
@@ -2440,16 +2440,16 @@
     <value>Help</value>
   </data>
   <data name="LOC_ID_OPTIONS_SCREEN_8" xml:space="preserve">
-    <value>*The game must be restarted for this change to come into effect.</value>
+    <value>*Þe game must be restarted for þis change to come into effect.</value>
   </data>
   <data name="LOC_ID_OPTIONS_SCREEN_9" xml:space="preserve">
-    <value>*Cloud support must be enabled on the Steam platform as well for\nthis feature to work.</value>
+    <value>*Cloud support must be enabled on þe Steam platform as well for\nþis feature to work.</value>
   </data>
   <data name="LOC_ID_PAUSE_SCREEN_1" xml:space="preserve">
     <value>Class: </value>
   </data>
   <data name="LOC_ID_PAUSE_SCREEN_2" xml:space="preserve">
-    <value>Strength: </value>
+    <value>Strengþ: </value>
   </data>
   <data name="LOC_ID_PAUSE_SCREEN_3" xml:space="preserve">
     <value>Magic: </value>
@@ -2461,7 +2461,7 @@
     <value>Level: </value>
   </data>
   <data name="LOC_ID_PAUSE_SCREEN_6" xml:space="preserve">
-    <value>Health: </value>
+    <value>Healþ: </value>
   </data>
   <data name="LOC_ID_PAUSE_SCREEN_7" xml:space="preserve">
     <value>Xbox One Wireless Controller disconnected. Reconnect it.</value>
@@ -2491,16 +2491,16 @@
     <value>Is bald.</value>
   </data>
   <data name="LOC_ID_PRESENCE_2" xml:space="preserve">
-    <value>Is exploring the Castle</value>
+    <value>Is exploring þe Castle</value>
   </data>
   <data name="LOC_ID_PRESENCE_3" xml:space="preserve">
-    <value>Is exploring the Tower</value>
+    <value>Is exploring þe Tower</value>
   </data>
   <data name="LOC_ID_PRESENCE_4" xml:space="preserve">
-    <value>Is exploring the Forest</value>
+    <value>Is exploring þe Forest</value>
   </data>
   <data name="LOC_ID_PRESENCE_5" xml:space="preserve">
-    <value>Is exploring the Dungeon</value>
+    <value>Is exploring þe Dungeon</value>
   </data>
   <data name="LOC_ID_PRESENCE_6" xml:space="preserve">
     <value>Is fighting [x]</value>
@@ -2509,13 +2509,13 @@
     <value>Is in a climactic final battle</value>
   </data>
   <data name="LOC_ID_PRESENCE_8" xml:space="preserve">
-    <value>Is watching the ending.</value>
+    <value>Is watching þe ending.</value>
   </data>
   <data name="LOC_ID_PRESENCE_9" xml:space="preserve">
     <value>Is afraid of chickens.</value>
   </data>
   <data name="LOC_ID_PROFILE_CARD_SCREEN_1" xml:space="preserve">
-    <value>Health</value>
+    <value>Healþ</value>
   </data>
   <data name="LOC_ID_PROFILE_CARD_SCREEN_10" xml:space="preserve">
     <value>Enchantments</value>
@@ -2539,7 +2539,7 @@
     <value>Weight</value>
   </data>
   <data name="LOC_ID_PROFILE_CARD_SCREEN_5" xml:space="preserve">
-    <value>Strength</value>
+    <value>Strengþ</value>
   </data>
   <data name="LOC_ID_PROFILE_CARD_SCREEN_6" xml:space="preserve">
     <value>Intelligence</value>
@@ -2629,19 +2629,19 @@
     <value>SPECIAL: Mist Form\n+{0}% Crit.Chance, +{1}% Crit. Damage.\nLow HP, MP, and Str.</value>
   </data>
   <data name="LOC_ID_PROFILE_DESC_5" xml:space="preserve">
-    <value>% Gold gain.\nVery weak in all other stats.</value>
+    <value>% Gold gain.\nVery weak in all oþer stats.</value>
   </data>
   <data name="LOC_ID_PROFILE_DESC_5_NEW" xml:space="preserve">
-    <value>+{0}% Gold gain.\nVery weak in all other stats.</value>
+    <value>+{0}% Gold gain.\nVery weak in all oþer stats.</value>
   </data>
   <data name="LOC_ID_PROFILE_DESC_6" xml:space="preserve">
     <value>SPECIAL: Ordinary Headlamp.</value>
   </data>
   <data name="LOC_ID_PROFILE_DESC_6b" xml:space="preserve">
-    <value>% Gold gain.\nVery weak in all other stats.</value>
+    <value>% Gold gain.\nVery weak in all oþer stats.</value>
   </data>
   <data name="LOC_ID_PROFILE_DESC_6_NEW" xml:space="preserve">
-    <value>SPECIAL: Ordinary Headlamp.\n+{0}% Gold gain.\nVery weak in all other stats.</value>
+    <value>SPECIAL: Ordinary Headlamp.\n+{0}% Gold gain.\nVery weak in all oþer stats.</value>
   </data>
   <data name="LOC_ID_PROFILE_DESC_7" xml:space="preserve">
     <value>Every kill gives you</value>
@@ -2698,16 +2698,16 @@
     <value>[Input:26] to delete</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_7_FEMALE" xml:space="preserve">
-    <value>the</value>
+    <value>þe</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_7_MALE" xml:space="preserve">
-    <value>the</value>
+    <value>þe</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_8_FEMALE" xml:space="preserve">
-    <value>the Deceased</value>
+    <value>þe Deceased</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_8_MALE" xml:space="preserve">
-    <value>the Deceased</value>
+    <value>þe Deceased</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_9" xml:space="preserve">
     <value>Lvl.</value>
@@ -2722,25 +2722,25 @@
     <value>Yes</value>
   </data>
   <data name="LOC_ID_SAVING_1" xml:space="preserve">
-    <value>Save data is corrupted. The save data will now be deleted.</value>
+    <value>Save data is corrupted. Þe save data will now be deleted.</value>
   </data>
   <data name="LOC_ID_SAVING_2" xml:space="preserve">
     <value>Save data ownership conflict. Save data will be reset and game progress will be lost.</value>
   </data>
   <data name="LOC_ID_SAVING_3" xml:space="preserve">
-    <value>There is not enough free space on the system storage. At least %i KB more free space is needed. Delete other save data and retry?</value>
+    <value>Þere is not enough free space on þe system storage. At least %i KB more free space is needed. Delete oþer save data and retry?</value>
   </data>
   <data name="LOC_ID_SAVING_4" xml:space="preserve">
     <value>Do you want to retry saving?</value>
   </data>
   <data name="LOC_ID_SAVING_5" xml:space="preserve">
-    <value>Do not turn off the PlayStation®Vita system while the following icon is displayed on screen</value>
+    <value>Do not turn off þe PlayStation®Vita system while þe following icon is displayed on screen</value>
   </data>
   <data name="LOC_ID_SAVING_6" xml:space="preserve">
-    <value>Do not turn off the PlayStation®3 system while the following icon is displayed on screen</value>
+    <value>Do not turn off þe PlayStation®3 system while þe following icon is displayed on screen</value>
   </data>
   <data name="LOC_ID_SAVING_7" xml:space="preserve">
-    <value>Do not turn off the PlayStation®4 system while the following icon is displayed on screen</value>
+    <value>Do not turn off þe PlayStation®4 system while þe following icon is displayed on screen</value>
   </data>
   <data name="LOC_ID_SAVING_8" xml:space="preserve">
     <value />
@@ -2752,49 +2752,49 @@
     <value>SFX Volume</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_1" xml:space="preserve">
-    <value>Improve your cardio workout. A better heart means better health.</value>
+    <value>Improve your cardio workout. A better heart means better healþ.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_10" xml:space="preserve">
-    <value>Unlock the smithy and gain access to phat loot.</value>
+    <value>Unlock þe smiþþy and gain access to phat loot.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_11" xml:space="preserve">
-    <value>Unlock the enchantress and gain access to her magical runes and powers.</value>
+    <value>Unlock þe enchantress and gain access to her magical runes and powers.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_12" xml:space="preserve">
-    <value>Unlock the architect and gain the powers to lock down the castle.</value>
+    <value>Unlock þe architect and gain þe powers to lock down þe castle.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_13" xml:space="preserve">
     <value>Upgrading your carry capacity will allow you to wear better and heavier armor.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_14" xml:space="preserve">
-    <value>Strengthen your innards through natural means to reduce incoming damage.</value>
+    <value>Strengþen your innards þrough natural means to reduce incoming damage.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_15" xml:space="preserve">
     <value>Improve your looting skills, and get more bang for your buck.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_16" xml:space="preserve">
-    <value>Lower Charon's toll by learning how to barter with death itself.</value>
+    <value>Lower Charon's toll by learning how to barter wiþ deaþ itself.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_17" xml:space="preserve">
-    <value>Gut cleansing leads to noticable improvements from both potions and meat.</value>
+    <value>Gut cleansing leads to noticeable improvements from boþ potions and meat.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_18" xml:space="preserve">
-    <value>Use the power of science to make a whole new batch of babies. Just... don't ask.</value>
+    <value>Use þe power of science to make a whole new batch of babies. Just... don't ask.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_19" xml:space="preserve">
-    <value>Release the power of the Lich! A being of massive potential.</value>
+    <value>Release þe power of þe Lich! A being of massive potential.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_2" xml:space="preserve">
-    <value>Strengthen your adrenal glands and be invulnerable  like Bane. Let the games begin!</value>
+    <value>Strengþen your adrenal glands and be invulnerable  like Bane. Let þe games begin!</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_20" xml:space="preserve">
-    <value>Unlock the skills of the Miner and raise your family fortune.</value>
+    <value>Unlock þe skills of þe Miner and raise your family fortune.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_21" xml:space="preserve">
-    <value>Unlock the Spellthief, and  become a martial  mage.</value>
+    <value>Unlock þe Spellþief, and  become a martial  mage.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_22" xml:space="preserve">
-    <value>Unlock the Shinobi, the fleetest of fighters.</value>
+    <value>Unlock þe Shinobi, þe fleetest of fighters.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_23" xml:space="preserve">
     <value>Practice your basics to reduce mana costs when casting spells.</value>
@@ -2803,37 +2803,37 @@
     <value>Turn your knights into Paladins. A ferocious forefront fighter.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_25" xml:space="preserve">
-    <value>Unlock the latent powers of the Mage and transform them into the all powerful Archmage.</value>
+    <value>Unlock þe latent powers of þe Mage and transform þem into þe all powerful Archmage.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_26" xml:space="preserve">
-    <value>Learn the dark arts, and turn the Knave into an Assassin.</value>
+    <value>Learn þe dark arts, and turn þe Knave into an Assassin.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_27" xml:space="preserve">
     <value>Earn your geology degree and go from Miner to Spelunker. Spiffy.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_28" xml:space="preserve">
-    <value>Become a Barbarian King.  The king of freemen. That makes no sense.</value>
+    <value>Become a Barbarian King.  Þe king of freemen. Þat makes no sense.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_29" xml:space="preserve">
-    <value>Royalize your all-powerful Liches, and turn them into Lich Kings.</value>
+    <value>Royalize your all-powerful Liches, and turn þem into Lich Kings.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_3" xml:space="preserve">
-    <value>Release your inner cat, and avoid death. Sometimes.</value>
+    <value>Release your inner cat, and avoid deaþ. Sometimes.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_30" xml:space="preserve">
-    <value>Become the leader of your village, and turn your Shinobi into a Hokage. Believe it!</value>
+    <value>Become þe leader of your village, and turn your Shinobi into a Hokage. Believe it!</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_31" xml:space="preserve">
-    <value>Ride the vortexes of magic, and turn your Spellthiefs into Spellswords.</value>
+    <value>Ride þe vortexes of magic, and turn your Spellþiefs into Spellswords.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_32" xml:space="preserve">
     <value>Half man, half ******, all awesome.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_33" xml:space="preserve">
-    <value>QUICK OF BREATH \nYou're a heavy breather.  Bad for stalking, good for walking! \n\nIncrease your natural endurance regeneration.</value>
+    <value>QUICK OF BREAÞ \nYou're a heavy breaþer.  Bad for stalking, good for walking! \n\nIncrease your natural endurance regeneration.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_34" xml:space="preserve">
-    <value>You were infused with tiger blood at a young age.  You have now been infused with the power to release tiger blood when stabbed. \nRunning drains less endurance.</value>
+    <value>You were infused wiþ tiger blood at a young age.  You have now been infused wiþ þe power to release tiger blood when stabbed. \nRunning drains less endurance.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_35" xml:space="preserve">
     <value>Your have viking ancestry.  \n\nIncrease your starting endurance.</value>
@@ -2842,31 +2842,31 @@
     <value>You're an early waker. If leveling was like waking up.\n Gain bonus HP and MP every time you level.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_37" xml:space="preserve">
-    <value>You were born with absolute power in your fingertips. \nAll spells deal more damage.</value>
+    <value>You were born wiþ absolute power in your fingertips. \nAll spells deal more damage.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_38" xml:space="preserve">
-    <value>You were born with arcane energy coarsing through your veins.  Ow. \nSpells cost less to cast.</value>
+    <value>You were born wiþ arcane energy coursing þrough your veins.  Ow. \nSpells cost less to cast.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_39" xml:space="preserve">
     <value>OCD finally comes in handy. \nGain more gold.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_4" xml:space="preserve">
-    <value>A proper gym will allow you to really  strengthen your arms and butt muscles.</value>
+    <value>A proper gym will allow you to really  strengþen your arms and butt muscles.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_40" xml:space="preserve">
-    <value>By law, you are now the best man. \nGive birth to more children.</value>
+    <value>By law, you are now þe best man. \nGive birþ to more children.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_41" xml:space="preserve">
-    <value>Your parents said learning how to sift for gold was useless for a farmer.  Whose laughing now? \n Display treasure rooms at the start of the game.</value>
+    <value>Your parents said learning how to sift for gold was useless for a farmer.  Whose laughing now? \n Display treasure rooms atþe start of þe game.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_42" xml:space="preserve">
     <value>War is hell.  Luckily you were never in one. \n Fire more mortars.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_43" xml:space="preserve">
-    <value>As a child, you showed an affinity for blowing things up. \n Bombs have a larger radius.</value>
+    <value>As a child, you showed an affinity for blowing þings up. \n Bombs have a larger radius.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_44" xml:space="preserve">
-    <value>You're great grandfather was a snowman.  He taught you nothing. \n Icicles pierce through more enemies.</value>
+    <value>You're great grandfaþþer was a snowman.  He taught you noþing. \n Icicles pierce þrough more enemies.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_45" xml:space="preserve">
     <value>You are Zen-like. \n Regain endurance faster while still.</value>
@@ -2875,22 +2875,22 @@
     <value>Generic SKILL.  Increase total Endurance.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_47" xml:space="preserve">
-    <value>You fight with finesse \n Attacks Drain X% less endurance.</value>
+    <value>You fight wiþ finesse \n Attacks Drain X% less endurance.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_48" xml:space="preserve">
-    <value>Generic SKILL.  Increase Health</value>
+    <value>Generic SKILL.  Increase Healþ</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_49" xml:space="preserve">
-    <value>You suck... Blood. \n Restore a small amount of life with every hit.</value>
+    <value>You suck... Blood. \n Restore a small amount of life wiþ every hit.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_5" xml:space="preserve">
-    <value>A pogo practice room has its benefits. Deal more damage with consecutive down strikes.</value>
+    <value>A pogo practice room has its benefits. Deal more damage wiþ consecutive down strikes.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_50" xml:space="preserve">
     <value>Come back to life, just like Jesus. But you're still not jesus. \n Revive once after dying.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_51" xml:space="preserve">
-    <value>Clearing a room is like clearing your mind.  I don't know how. \nRegain health for every room fully cleared.</value>
+    <value>Clearing a room is like clearing your mind.  I don't know how. \nRegain healþ for every room fully cleared.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_52" xml:space="preserve">
     <value>Cartography /n Each percentage of map revealed adds 0.1 damage.</value>
@@ -2899,34 +2899,34 @@
     <value>Generic SKILL.  Increase Attack Damage.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_54" xml:space="preserve">
-    <value>You're a very, very sore loser. \n Deal massive damage to all enemies on screen upon death.</value>
+    <value>You're a very, very sore loser. \n Deal massive damage to all enemies on screen upon deaþ.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_55" xml:space="preserve">
-    <value>You have learned that hitting the balls deals massive damage. \n Crits deal more damage.</value>
+    <value>You have learned þat hitting þe balls deals massive damage. \n Crits deal more damage.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_56" xml:space="preserve">
     <value>GENERIC SKILL.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_57" xml:space="preserve">
-    <value>Oh. They were in my back pocket. \nGain 2 extra keys.</value>
+    <value>Oh. Þey were in my back pocket. \nGain 2 extra keys.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_58" xml:space="preserve">
-    <value>Like a pheonix you are reborn from your crappy ashes. \n Regain all HP and MP.</value>
+    <value>Like a phoenix you are reborn from your crappy ashes. \n Regain all HP and MP.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_59" xml:space="preserve">
     <value>Retire, and invest your money wisely.  End your game early, and gain a bonus to gold found.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_6" xml:space="preserve">
-    <value>Teaching yourself about the weaknesses of enemies allows you to strike with deadly efficiency.</value>
+    <value>Teaching yourself about þe weaknesses of enemies allows you to strike wiþ deadly efficiency.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_60" xml:space="preserve">
     <value>CHUG CHUG CHUG! \n Drink potions instantly.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_7" xml:space="preserve">
-    <value>Practice the deadly strikes to be even deadlier. Enemies will be so dead.</value>
+    <value>Practice þe deadly strikes to be even deadlier. Enemies will be so dead.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_8" xml:space="preserve">
-    <value>Learn the secrets of the universe, so you can use it to kill with spells better.</value>
+    <value>Learn þe secrets of þe universe, so you can use it to kill wiþ spells better.</value>
   </data>
   <data name="LOC_ID_SKILL_DESC_9" xml:space="preserve">
     <value>Increase your mental fortitude in order to increase your mana pool.</value>
@@ -2959,7 +2959,7 @@
     <value>Press [Input:13] to turn on your headlamp</value>
   </data>
   <data name="LOC_ID_SKILL_INPUT_28" xml:space="preserve">
-    <value>Press [Input:13] to cast an epic shout that knocks virtually everything away.</value>
+    <value>Press [Input:13] to cast an epic shout þat knocks virtually everyþing away.</value>
   </data>
   <data name="LOC_ID_SKILL_INPUT_29" xml:space="preserve">
     <value>Press [Input:13] to convert max hp into max mp</value>
@@ -2986,7 +2986,7 @@
     <value>to turn on your headlamp</value>
   </data>
   <data name="LOC_ID_SKILL_INPUT_7" xml:space="preserve">
-    <value>to cast an epic shout that knocks virtually everything away.</value>
+    <value>to cast an epic shout þat knocks virtually everyþing away.</value>
   </data>
   <data name="LOC_ID_SKILL_INPUT_8" xml:space="preserve">
     <value>to convert max hp into max mp</value>
@@ -2998,10 +2998,10 @@
     <value> </value>
   </data>
   <data name="LOC_ID_SKILL_NAME_1" xml:space="preserve">
-    <value>Health Up</value>
+    <value>Healþ Up</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_10" xml:space="preserve">
-    <value>Smithy</value>
+    <value>Smiþþy</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_11" xml:space="preserve">
     <value>Enchantress</value>
@@ -3037,7 +3037,7 @@
     <value>Unlock Miner</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_21" xml:space="preserve">
-    <value>Unlock Spell Thief</value>
+    <value>Unlock Spell Þief</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_22" xml:space="preserve">
     <value>Unlock Shinobi</value>
@@ -3064,19 +3064,19 @@
     <value>Upgrade Lich</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_3" xml:space="preserve">
-    <value>Death Defy</value>
+    <value>Deaþ Defy</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_30" xml:space="preserve">
     <value>Upgrade Shinobi</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_31" xml:space="preserve">
-    <value>Upgrade Spell Thief</value>
+    <value>Upgrade Spell Þief</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_32" xml:space="preserve">
     <value>Beastiality</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_33" xml:space="preserve">
-    <value>Quick of Breath</value>
+    <value>Quick of Breaþ</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_34" xml:space="preserve">
     <value>Born to Run</value>
@@ -3085,7 +3085,7 @@
     <value>Stout Heart</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_36" xml:space="preserve">
-    <value>Out the Gate</value>
+    <value>Out þe Gate</value>
   </data>
   <data name="LOC_ID_SKILL_NAME_37" xml:space="preserve">
     <value>Spellsword</value>
@@ -3226,10 +3226,10 @@
     <value>[Input:9] to toggle icons off</value>
   </data>
   <data name="LOC_ID_SKILL_SCREEN_3" xml:space="preserve">
-    <value>to exit the manor</value>
+    <value>to exit þe manor</value>
   </data>
   <data name="LOC_ID_SKILL_SCREEN_3_NEW" xml:space="preserve">
-    <value>[Input:2] to exit the manor</value>
+    <value>[Input:2] to exit þe manor</value>
   </data>
   <data name="LOC_ID_SKILL_SCREEN_4" xml:space="preserve">
     <value>to navigate skills</value>
@@ -3256,55 +3256,55 @@
     <value>Level</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_1" xml:space="preserve">
-    <value>The Blacksmith can build the finest equipment in the world, turning you into a veritably virtuous violent-villain vaporizer.\nGathering blueprints will give him an even wider array of assorted armaments for your armory.</value>
+    <value>Þe Blacksmiþþ can build þe finest equipment in þe world, turning you into a veritably virtuous violent-villain vaporizer.\nGaþþering blueprints will give him an even wider array of assorted armaments for your armory.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_10" xml:space="preserve">
-    <value>Convert your Barbarians into Barbarian KINGS! Learn the secret shouts of the bears, and shout at things until they explode.</value>
+    <value>Convert your Barbarians into Barbarian KINGS! Learn þe secret shouts of þe bears, and shout at þings until þey explode.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_11" xml:space="preserve">
-    <value>Go from a measly Shinobi, to the all powerful Hokage! Master the art of looking like you're hit, but secretly turning into a log at the last minute.  Good thing you carry a lot of logs on you.</value>
+    <value>Go from a measly Shinobi, to þe all powerful Hokage! Master þe art of looking like you're hit, but secretly turning into a log at þe last minute.  Good þing you carry a lot of logs on you.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_12" xml:space="preserve">
-    <value>Train your Knaves to become full fledged Assassins. Use the power of the shadows to slip secretly past enemy ranks.</value>
+    <value>Train your Knaves to become full fledged Assassins. Use þe power of þe shadows to slip secretly past enemy ranks.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_13" xml:space="preserve">
-    <value>All that digging has turned your Miners into Spelunkers! Now that spiffy light on your head actually does something! (Not really).</value>
+    <value>All þat digging has turned your Miners into Spelunkers! Now þat spiffy light on your head actually does someþing! (Not really).</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_14" xml:space="preserve">
-    <value>Turn your Spellthieves into Spellswords, and grant yourself the power of summoning empowered spells.\nYou call that an axe? THIS is an axe.</value>
+    <value>Turn your Spellþieves into Spellswords, and grant yourself þe power of summoning empowered spells.\nYou call þat an axe? ÞIS is an axe.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_15" xml:space="preserve">
-    <value>Raise your Liches into Lich Kings, and grant yourself the power of both mind AND matter! With a single press, convert your permanant health, into permanent mana.</value>
+    <value>Raise your Liches into Lich Kings, and grant yourself þe power of boþ mind AND matter! Wiþ a single press, convert your permanent healþ, into permanent mana.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_16" xml:space="preserve">
-    <value>You have discovered the lost art of the dragons. Though you cannot jump, you have unlimited flight, and can cast forth powerful fireballs at your foes.</value>
+    <value>You have discovered þe lost art of þe dragons. Þough you cannot jump, you have unlimited flight, and can cast forþ powerful fireballs at your foes.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_17" xml:space="preserve">
-    <value>You have discovered the hidden arts known only by Johannes the Traitor. All shall bow before your might!</value>
+    <value>You have discovered þe hidden arts known only by Johannes þe Traitor. All shall bow before your might!</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_2" xml:space="preserve">
-    <value>The Enchantress can empower your body with magical runes, making you better, stronger, faster, jumpier.\nFind runes to increase her repertoire of body modifiying talents.\n\nHer crystal ball is just for show.</value>
+    <value>Þe Enchantress can empower your body wiþ magical runes, making you better, stronger, faster, jumpier.\nFind runes to increase her repertoire of body modifiying talents.\n\nHer crystal ball is just for show.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_3" xml:space="preserve">
-    <value>The Architect can lock a castle down and prevent it from changing.\n\nLike the layout of a castle?\nLOCK IT DOWN!\nJust make sure you can afford his fees.</value>
+    <value>Þe Architect can lock a castle down and prevent it from changing.\n\nLike þe layout of a castle?\nLOCK IT DOWN!\nJust make sure you can afford his fees.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_4" xml:space="preserve">
-    <value>The Shinobi. A super fast, super deadly warrior, who wears a super head band. They can't take a lot of hits, but they can dish out the pain. Believe it!</value>
+    <value>Þe Shinobi. A super fast, super deadly warrior, who wears a super head band. Þey can't take a lot of hits, but þey can dish out þe pain. Believe it!</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_5" xml:space="preserve">
-    <value>Trained more in the art of making money then killing enemies. Miners are best used for scouring the castle for treasure chests, and avoiding confrontation.</value>
+    <value>Trained more in þe art of making money þen killing enemies. Miners are best used for scouring þe castle for treasure chests, and avoiding confrontation.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_6" xml:space="preserve">
-    <value>The Spellthief drains mana from the enemies they hit. This grants them access to an infinite supply of mana in the heat of a battle. Rock on!</value>
+    <value>Þe Spellþief drains mana from þe enemies þey hit. Þis grants þem access to an infinite supply of mana in þe heat of a battle. Rock on!</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_7" xml:space="preserve">
-    <value>Masters of life and death. The lich has mammoth potential. Every kill grants the Lich permanent health (to a cap), making them truly dangerous beings.</value>
+    <value>Masters of life and deaþ. Þe lich has mammoth potential. Every kill grants þe Lich permanent healþ (to a cap), making þem truly dangerous beings.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_8" xml:space="preserve">
-    <value>Promote your Knights into Paladins. Through rigorous training, Paladins have learned how to block blows from any direction.</value>
+    <value>Promote your Knights into Paladins. Þrough rigorous training, Paladins have learned how to block blows from any direction.</value>
   </data>
   <data name="LOC_ID_SKILL_UNLOCK_9" xml:space="preserve">
-    <value>Transform your measly Mages into Archmages. Master all of the arcane arts, and change whatever spells you have on the fly.</value>
+    <value>Transform your measly Mages into Archmages. Master all of þe arcane arts, and change whatever spells you have on þe fly.</value>
   </data>
   <data name="LOC_ID_SPECIAL_ITEM_TYPE_1" xml:space="preserve">
     <value>Hyperion's Ring</value>
@@ -3349,13 +3349,13 @@
     <value>Summon a Grand Blade to defend you.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_11" xml:space="preserve">
-    <value>Encircles you with protective fire.</value>
+    <value>Encircles you wiþ protective fire.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_12" xml:space="preserve">
-    <value>Launches orbs that bounce everywhere.</value>
+    <value>Launches orbs þat bounce everywhere.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_13" xml:space="preserve">
-    <value>Fire a laser that blasts everyone it touches.</value>
+    <value>Fire a laser þat blasts everyone it touches.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_14" xml:space="preserve">
     <value>Shoot fireballs at your enemies.</value>
@@ -3364,10 +3364,10 @@
     <value>Fire a barrage of daggers.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_2" xml:space="preserve">
-    <value>Throws a giant axe in an arc.</value>
+    <value>Þrows a giant axe in an arc.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_3" xml:space="preserve">
-    <value>Summons a bomb that explodes after a while.</value>
+    <value>Summons a bomb þat explodes after a while.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_4" xml:space="preserve">
     <value>Toggles freezing all enemies on-screen.</value>
@@ -3382,10 +3382,10 @@
     <value>Sends out a marker which teleports you.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_8" xml:space="preserve">
-    <value>Throws a chakram which comes back to you.</value>
+    <value>Þrows a chakram which comes back to you.</value>
   </data>
   <data name="LOC_ID_SPELL_DESC_9" xml:space="preserve">
-    <value>Send Scythes flying out from above you.</value>
+    <value>Send Scyþes flying out from above you.</value>
   </data>
   <data name="LOC_ID_SPELL_NAME_1" xml:space="preserve">
     <value>Axe</value>
@@ -3478,16 +3478,16 @@
     <value>Chakram</value>
   </data>
   <data name="LOC_ID_SPELL_TYPE_9" xml:space="preserve">
-    <value>Scythe</value>
+    <value>Scyþe</value>
   </data>
   <data name="LOC_ID_SPLASH_SCREEN_1" xml:space="preserve">
     <value>...Loading</value>
   </data>
   <data name="LOC_ID_TEXT_1" xml:space="preserve">
-    <value>Blacksmith</value>
+    <value>Blacksmiþþ</value>
   </data>
   <data name="LOC_ID_TEXT_10" xml:space="preserve">
-    <value>I used to be a very powerful Enchantress. But one day, the monsters of this castle invaded my dreams and stole my knowledge.</value>
+    <value>I used to be a very powerful Enchantress. But one day, þe monsters of þis castle invaded my dreams and stole my knowledge.</value>
   </data>
   <data name="LOC_ID_TEXT_100" xml:space="preserve">
     <value>No sound</value>
@@ -3496,19 +3496,19 @@
     <value>Fairy Chest</value>
   </data>
   <data name="LOC_ID_TEXT_102" xml:space="preserve">
-    <value>The floor is lava.</value>
+    <value>Þe floor is lava.</value>
   </data>
   <data name="LOC_ID_TEXT_103" xml:space="preserve">
     <value>Booyan</value>
   </data>
   <data name="LOC_ID_TEXT_104" xml:space="preserve">
-    <value>Hi there! Care to test your dexterity?\nYou only get one shot, but it's free of charge! If you succeed, I'll give you a nice reward!</value>
+    <value>Hi þere! Care to test your dexterity?\nYou only get one shot, but it's free of charge! If you succeed, I'll give you a nice reward!</value>
   </data>
   <data name="LOC_ID_TEXT_105" xml:space="preserve">
     <value>You only get one shot, but it's free of charge! If you succeed, I'll give you a nice reward!</value>
   </data>
   <data name="LOC_ID_TEXT_106" xml:space="preserve">
-    <value>10 daggers to destroy 8 targets. Care to give it a try?</value>
+    <value>12 daggers to destroy 8 targets. Care to give it a try?</value>
   </data>
   <data name="LOC_ID_TEXT_107" xml:space="preserve">
     <value>Booyan</value>
@@ -3520,64 +3520,64 @@
     <value>Booyan</value>
   </data>
   <data name="LOC_ID_TEXT_11" xml:space="preserve">
-    <value>They encased that knowledge in runes, and without those runes, I suck at my job.</value>
+    <value>þey encased þat knowledge in runes, and wiþout þose runes, I suck at my job.</value>
   </data>
   <data name="LOC_ID_TEXT_110" xml:space="preserve">
-    <value>I haven't seen that many shots since my last visit to the alehouse (yesterday). For destroying all the targets, I've got a little reward for you!</value>
+    <value>I haven't seen þat many shots since my last visit to þe alehouse (yesterday). For destroying all þe targets, I've got a little reward for you!</value>
   </data>
   <data name="LOC_ID_TEXT_111" xml:space="preserve">
     <value>Booyan</value>
   </data>
   <data name="LOC_ID_TEXT_112" xml:space="preserve">
-    <value>You couldn't even hit 8 targets?\nPffft.  Good luck with the rest of the castle.</value>
+    <value>You couldn't even hit 8 targets?\nPffft.  Good luck wiþ þe rest of þe castle.</value>
   </data>
   <data name="LOC_ID_TEXT_113" xml:space="preserve">
-    <value>Pffft.  Good luck with the rest of the castle.</value>
+    <value>Pffft.  Good luck wiþ þe rest of þe castle.</value>
   </data>
   <data name="LOC_ID_TEXT_114" xml:space="preserve">
     <value>Booyan</value>
   </data>
   <data name="LOC_ID_TEXT_115" xml:space="preserve">
-    <value>Hi there! Let's see how good you are at your skills.\nYou only get one shot, but it's free of charge! If you succeed, I'll give you a nice reward!</value>
+    <value>Hi þere! Let's see how good you are at your skills.\nYou only get one shot, but it's free of charge! If you succeed, I'll give you a nice reward!</value>
   </data>
   <data name="LOC_ID_TEXT_116" xml:space="preserve">
     <value>You only get one shot, but it's free of charge! If you succeed, I'll give you a nice reward!</value>
   </data>
   <data name="LOC_ID_TEXT_117" xml:space="preserve">
-    <value>You get 5 axes to destroy as many targets as possible.  Leave less than 10 standing, and I'll give you a special prize. Care to give it a try?</value>
+    <value>You get 5 axes to destroy as many targets as possible.  Leave less þan 10 standing, and I'll give you a special prize. Care to give it a try?</value>
   </data>
   <data name="LOC_ID_TEXT_118" xml:space="preserve">
     <value>Booyan</value>
   </data>
   <data name="LOC_ID_TEXT_119" xml:space="preserve">
-    <value>Smashing! You managed to leave no more than 10 targets! Since I no longer have enough targets to run this gig, I might as well give you my stash.</value>
+    <value>Smashing! You managed to leave no more þan 10 targets! Since I no longer have enough targets to run þis gig, I might as well give you my stash.</value>
   </data>
   <data name="LOC_ID_TEXT_12" xml:space="preserve">
-    <value>Please Hero, if you find any runes, bring them back to me, and then I'll sell it back to you at a profit!</value>
+    <value>Please Hero, if you find any runes, bring þem back to me, and þen I'll sell it back to you at a profit!</value>
   </data>
   <data name="LOC_ID_TEXT_120" xml:space="preserve">
     <value>Booyan</value>
   </data>
   <data name="LOC_ID_TEXT_121" xml:space="preserve">
-    <value>You left more than 10 targets remaining.\nI guess you don't want the prize.  Snarf!</value>
+    <value>You left more þan 10 targets remaining.\nI guess you don't want þe prize.  Snarf!</value>
   </data>
   <data name="LOC_ID_TEXT_122" xml:space="preserve">
-    <value>I guess you don't want the prize.  Snarf!</value>
+    <value>I guess you don't want þe prize.  Snarf!</value>
   </data>
   <data name="LOC_ID_TEXT_123" xml:space="preserve">
     <value>???</value>
   </data>
   <data name="LOC_ID_TEXT_124" xml:space="preserve">
-    <value>Greetings adventurer.  I am here to give you a chance of a lifetime!</value>
+    <value>Greetings adventurer.  I am here to give you þe chance of a lifetime!</value>
   </data>
   <data name="LOC_ID_TEXT_125" xml:space="preserve">
     <value>Miserly Elf</value>
   </data>
   <data name="LOC_ID_TEXT_126" xml:space="preserve">
-    <value>For the measly sum of 25% your current gold, I will give you a chance to open 1 of 3 chests.</value>
+    <value>For þe measly sum of 25% of your current gold, I will give you a chance to open 1 of 3 chests.</value>
   </data>
   <data name="LOC_ID_TEXT_127" xml:space="preserve">
-    <value>One chest will triple what you paid, but the other two are empty.</value>
+    <value>One chest will triple what you paid, but þe oþer two are empty.</value>
   </data>
   <data name="LOC_ID_TEXT_128" xml:space="preserve">
     <value>Cheapskate Elf</value>
@@ -3592,16 +3592,16 @@
     <value>???</value>
   </data>
   <data name="LOC_ID_TEXT_131" xml:space="preserve">
-    <value>Greetings adventurer.  I am here to give you a chance of a lifetime!</value>
+    <value>Greetings adventurer.  I am here to give you þe chance of a lifetime!</value>
   </data>
   <data name="LOC_ID_TEXT_132" xml:space="preserve">
     <value>Miserly Elf</value>
   </data>
   <data name="LOC_ID_TEXT_133" xml:space="preserve">
-    <value>For the measly sum of 50% your current gold, I will give you a chance to open 1 of 3 chests.</value>
+    <value>For þe measly sum of 50% of your current gold, I will give you a chance to open 1 of 3 chests.</value>
   </data>
   <data name="LOC_ID_TEXT_134" xml:space="preserve">
-    <value>One chest will triple what you paid, but the other two are empty.</value>
+    <value>One chest will triple what you paid, but þe oþer two are empty.</value>
   </data>
   <data name="LOC_ID_TEXT_135" xml:space="preserve">
     <value>Cheapskate Elf</value>
@@ -3613,7 +3613,7 @@
     <value>???</value>
   </data>
   <data name="LOC_ID_TEXT_138" xml:space="preserve">
-    <value>Greetings adventurer.  I am here to give you a chance of a lifetime!</value>
+    <value>Greetings adventurer.  I am here to give you þe chance of a lifetime!</value>
   </data>
   <data name="LOC_ID_TEXT_139" xml:space="preserve">
     <value>Miserly Elf</value>
@@ -3622,10 +3622,10 @@
     <value>Grrrrreeeeetings Boy!</value>
   </data>
   <data name="LOC_ID_TEXT_140" xml:space="preserve">
-    <value>For the measly sum of 75% your current gold, I will give you a chance to open 1 of 3 chests.</value>
+    <value>For þe measly sum of 75% of your current gold, I will give you a chance to open 1 of 3 chests.</value>
   </data>
   <data name="LOC_ID_TEXT_141" xml:space="preserve">
-    <value>One chest will triple what you paid, but the other two are empty.</value>
+    <value>One chest will triple what you paid, but þe oþer two are empty.</value>
   </data>
   <data name="LOC_ID_TEXT_142" xml:space="preserve">
     <value>Cheapskate Elf</value>
@@ -3643,10 +3643,10 @@
     <value>Sore Winner Elf</value>
   </data>
   <data name="LOC_ID_TEXT_147" xml:space="preserve">
-    <value>What's in the box?</value>
+    <value>What's in þe box?</value>
   </data>
   <data name="LOC_ID_TEXT_148" xml:space="preserve">
-    <value>NOTHING!</value>
+    <value>NOÞING!</value>
   </data>
   <data name="LOC_ID_TEXT_149" xml:space="preserve">
     <value>You stupid! Soooo stupid!</value>
@@ -3658,7 +3658,7 @@
     <value>Sore Loser Elf</value>
   </data>
   <data name="LOC_ID_TEXT_151" xml:space="preserve">
-    <value>Tch!  You were lucky this time.</value>
+    <value>Tch!  You were lucky þis time.</value>
   </data>
   <data name="LOC_ID_TEXT_152" xml:space="preserve">
     <value>Impatient Elf</value>
@@ -3676,7 +3676,7 @@
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_157" xml:space="preserve">
-    <value>Don't **** Your Pants.\nDevelopment Time: 2 days.\nRelease Date: February 16, 2009</value>
+    <value>Don't Shit Your Pants.\nDevelopment Time: 2 days.\nRelease Date: February 16, 2009</value>
   </data>
   <data name="LOC_ID_TEXT_158" xml:space="preserve">
     <value>Development Time: 2 days.</value>
@@ -3685,58 +3685,58 @@
     <value>Release Date: February 16, 2009</value>
   </data>
   <data name="LOC_ID_TEXT_16" xml:space="preserve">
-    <value>This lever here? With a simple pull, I can prevent the castle from changing.</value>
+    <value>þis lever here? Wiþ a simple pull, I can prevent þe castle from changing.</value>
   </data>
   <data name="LOC_ID_TEXT_160" xml:space="preserve">
-    <value>This was the first game we ever made, and back then we used to be called Decade Studios. In it you must stop a man from pooping himself using only text input.</value>
+    <value>Þis was þe first game we ever made, and back þen we used to be called Decade Studios. In it you must stop a man from pooping himself using only text input.</value>
   </data>
   <data name="LOC_ID_TEXT_161" xml:space="preserve">
     <value>It was originally designed on a bus, and we decided to make it on the weekend. It did pretty well.</value>
   </data>
   <data name="LOC_ID_TEXT_162" xml:space="preserve">
-    <value>The game has a swear word in it, and we were thinking about changing the title to be more friendly. But then our balls grew back and we stuck to our guns.</value>
+    <value>Þe game has a swear word in it, and we were þinking about changing þe title to be more friendly. But þen our balls grew back and we stuck to our guns.</value>
   </data>
   <data name="LOC_ID_TEXT_163" xml:space="preserve">
-    <value>A big part of the game revolved around making a text adventure that allowed people to input whatever they wanted. To solve this we had to pre-empt what we thought people would type.</value>
+    <value>A big part of þe game revolved around making a text adventure þat allowed people to input whatever they wanted. To solve this we had to pre-empt what we þought people would type.</value>
   </data>
   <data name="LOC_ID_TEXT_164" xml:space="preserve">
-    <value>We did this in 2 ways. First, we reduced the amount of options a player had (A man and a door), and secondly, we built an achievement system which was used to give the player direction.</value>
+    <value>We did þis in 2 ways. First, we reduced þe amount of options a player had (A man and a door), and secondly, we built an achievement system which was used to give þe player direction.</value>
   </data>
   <data name="LOC_ID_TEXT_165" xml:space="preserve">
-    <value>The game revolved around the achievement system so heavily that it was placed into the game over screen progression. That was a small but very vital change.</value>
+    <value>Þe game revolved around þe achievement system so heavily þat it was placed into þe game over screen progression. þat was a small but very vital change.</value>
   </data>
   <data name="LOC_ID_TEXT_166" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_167" xml:space="preserve">
-    <value>Band of Bears\nDevelopment Time: 4 months.\nRelease Date: August 6, 2009</value>
+    <value>Band of Bears\nDevelopment Time: 4 monþs.\nRelease Date: August 6, 2009</value>
   </data>
   <data name="LOC_ID_TEXT_168" xml:space="preserve">
-    <value>Development Time: 4 months.</value>
+    <value>Development Time: 4 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_169" xml:space="preserve">
     <value>Release Date: August 6, 2009</value>
   </data>
   <data name="LOC_ID_TEXT_17" xml:space="preserve">
-    <value>This way you can go through exactly what your ancestors went through. Impreeeessed? You should be.</value>
+    <value>Þis way you can go þrough exactly what your ancestors went þrough. Impreeeessed? You should be.</value>
   </data>
   <data name="LOC_ID_TEXT_170" xml:space="preserve">
-    <value>This was our second game we ever attempted, and it was for the 2009 DreamBuildPlay contest. We found out about it pretty late, so we had to play catch up with everyone else.</value>
+    <value>Þis was our second game we ever attempted, and it was for the 2009 DreamBuildPlay contest. We found out about it pretty late, so we had to play catch up wiþ everyone else.</value>
   </data>
   <data name="LOC_ID_TEXT_171" xml:space="preserve">
-    <value>Fresh off the success of DSYP we decided to go big... stupidly big.  And thus, Cellar Door Games was formed.</value>
+    <value>Fresh off þe success of DSYP we decided to go big... stupidly big.  And þus, Cellar Door Games was formed.</value>
   </data>
   <data name="LOC_ID_TEXT_172" xml:space="preserve">
-    <value>On top of starting a project well beyond our resources and expertise, we also juggled full-time jobs to get this game running. It was pretty sucky.</value>
+    <value>On top of starting a project well beyond our resources and expertise, we also juggled full-time jobs to get þis game running. It was pretty sucky.</value>
   </data>
   <data name="LOC_ID_TEXT_173" xml:space="preserve">
-    <value>The game featured the B.E.A.R.S system (Bare Effort Adaptable Room System), which would change rooms depending on the number of players playing.</value>
+    <value>Þe game featured þe B.E.A.R.S system (Bare Effort Adaptable Room System), which would change rooms depending on þe number of players playing.</value>
   </data>
   <data name="LOC_ID_TEXT_174" xml:space="preserve">
-    <value>The BEARS system didn't just tweak numbers, it tweaked puzzles as well. We ended up in the Top 20 which was good but not high enough to win anything.</value>
+    <value>The BEARS system didn't just tweak numbers, it tweaked puzzles as well. We ended up in þe Top 20 which was good but not high enough to win anything.</value>
   </data>
   <data name="LOC_ID_TEXT_175" xml:space="preserve">
-    <value>Eventually reality (and common sense) came back to us and we realized we had to scrap the project, or in the very least put it on indefinite hiatus.</value>
+    <value>Eventually reality (and common sense) came back to us and we realized we had to scrap þe project, or in the very least put it on indefinite hiatus.</value>
   </data>
   <data name="LOC_ID_TEXT_176" xml:space="preserve">
     <value>The demo boss was pretty frickin cool.</value>
@@ -3745,31 +3745,31 @@
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_178" xml:space="preserve">
-    <value>Tribal Tallies\nDevelopment Time: 3 months.\nRelease Date: November 23rd, 2009</value>
+    <value>Tribal Tallies\nDevelopment Time: 3 monþs.\nRelease Date: November 23rd, 2009</value>
   </data>
   <data name="LOC_ID_TEXT_179" xml:space="preserve">
-    <value>Development Time: 3 months.</value>
+    <value>Development Time: 3 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_18" xml:space="preserve">
-    <value>How did I build this fantastic connnnnnnntraption? With sccccccience of course! And magic.</value>
+    <value>How did I build þis fantastic connnnnnnntraption? With sccccccience of course! And magic.</value>
   </data>
   <data name="LOC_ID_TEXT_180" xml:space="preserve">
     <value>Release Date: November 23rd, 2009</value>
   </data>
   <data name="LOC_ID_TEXT_181" xml:space="preserve">
-    <value>Tribal Tallies was the first project we had worked on months after the horrible experience with Band of Bears.</value>
+    <value>Tribal Tallies was þe first project we had worked on monþs after þe horrible experience with Band of Bears.</value>
   </data>
   <data name="LOC_ID_TEXT_182" xml:space="preserve">
     <value>It was a bit of a test project, to dabble our feet in water of iOS gaming since we had never tried making something on mobile platforms before.</value>
   </data>
   <data name="LOC_ID_TEXT_183" xml:space="preserve">
-    <value>The game was simple in concept, as you tapped numbers in sequence as fast as you could.</value>
+    <value>Þe game was simple in concept, as you tapped numbers in sequence as fast as you could.</value>
   </data>
   <data name="LOC_ID_TEXT_184" xml:space="preserve">
     <value>To spice things up we implemented several modes, like tap backwards, hidden numbers, and tap matching.</value>
   </data>
   <data name="LOC_ID_TEXT_185" xml:space="preserve">
-    <value>We thought the scope was reasonable, but the game ended up taking much more time to make than expected.  It didn't help it was all coded on a hackintosh.</value>
+    <value>We thought the scope was reasonable, but þe game ended up taking much more time to make þan expected.  It didn't help it was all coded on a hackintosh.</value>
   </data>
   <data name="LOC_ID_TEXT_186" xml:space="preserve">
     <value>It was a pretty plain game. We could have done better, but we were all playing it safe after Band of Bears.</value>
@@ -3778,10 +3778,10 @@
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_188" xml:space="preserve">
-    <value>Q\nDevelopment Time: 1 month.\nRelease Date: March 18th, 2010</value>
+    <value>Q\nDevelopment Time: 1 monþ.\nRelease Date: March 18th, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_189" xml:space="preserve">
-    <value>Development Time: 1 month.</value>
+    <value>Development Time: 1 monþ.</value>
   </data>
   <data name="LOC_ID_TEXT_19" xml:space="preserve">
     <value>... Mostly magic.</value>
@@ -3790,64 +3790,64 @@
     <value>Release Date: March 18th, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_191" xml:space="preserve">
-    <value>Our fourth project. After Tribal Tallies we took a few months off from making games and just focused on our full-time jobs.  We got angsty again, so we decided to make a puzzle game.</value>
+    <value>Our fourþ project. After Tribal Tallies we took a few monþs off from making games and just focused on our full-time jobs.  We got angsty again, so we decided to make a puzzle game.</value>
   </data>
   <data name="LOC_ID_TEXT_192" xml:space="preserve">
-    <value>At this point most of the original founders of Cellar Door Games left to pursue other opportunities, and the unwanted remnants are what compose the company today.</value>
+    <value>At þis point most of þe original founders of Cellar Door Games left to pursue oþer opportunities, and þe unwanted remnants are what compose þe company today.</value>
   </data>
   <data name="LOC_ID_TEXT_193" xml:space="preserve">
-    <value>The game used a queuing combo mechanism to force players to think about how the tiles would fall in order to build massive combos.</value>
+    <value>Þe game used a queuing combo mechanism to force players to þink about how þe tiles would fall in order to build massive combos.</value>
   </data>
   <data name="LOC_ID_TEXT_194" xml:space="preserve">
-    <value>We made it free but nobody picked it up either. After the failures of Band of Bears, Tribal Tallies, and Q, we prepped ourselves to pack it in and close the company.</value>
+    <value>We made it free but nobody picked it up eiþer. After the failures of Band of Bears, Tribal Tallies, and Q, we prepped ourselves to pack it in and close þe company.</value>
   </data>
   <data name="LOC_ID_TEXT_195" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_196" xml:space="preserve">
-    <value>My First Quantum Translocator\nDevelopment Time: 1 month.\nRelease Date: October 13th, 2010</value>
+    <value>My First Quantum Translocator\nDevelopment Time: 1 monþ.\nRelease Date: October 13th, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_197" xml:space="preserve">
-    <value>Development Time: 1 month.</value>
+    <value>Development Time: 1 monþ.</value>
   </data>
   <data name="LOC_ID_TEXT_198" xml:space="preserve">
     <value>Release Date: October 13th, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_199" xml:space="preserve">
-    <value>My First Quantum Translocator came about when our company was at its lowest point.  After 3 failed games we had already mentally checked out, and decided to make this tiny flash game for kicks.</value>
+    <value>My First Quantum Translocator came about when our company was at its lowest point.  After 3 failed games we had already mentally checked out, and decided to make þis tiny flash game for kicks.</value>
   </data>
   <data name="LOC_ID_TEXT_2" xml:space="preserve">
     <value>Welcome Hero.</value>
   </data>
   <data name="LOC_ID_TEXT_20" xml:space="preserve">
-    <value>But my skills aren't freeeeee. If I lock this castle, I will take 40% of allll the gold you earn!</value>
+    <value>But my skills aren't freeeeee. If I lock þis castle, I will take 40% of allll þe gold you earn!</value>
   </data>
   <data name="LOC_ID_TEXT_200" xml:space="preserve">
-    <value>Absolutely no expectations were made during development, and it was more of something we did for fun than anything else.</value>
+    <value>Absolutely no expectations were made during development, and it was more of something we did for fun þan anything else.</value>
   </data>
   <data name="LOC_ID_TEXT_201" xml:space="preserve">
-    <value>Needless to say, response to the game was huge and it is the sole reason that Cellar Door Games exists today.  The moment we released MFQT we knew there was no going back.</value>
+    <value>Needless to say, response to þe game was huge and it is the sole reason þat Cellar Door Games exists today.  Þe moment we released MFQT we knew þere was no going back.</value>
   </data>
   <data name="LOC_ID_TEXT_202" xml:space="preserve">
-    <value>Interestingly enough, most people believe the game was inspired by Portal, but their similarities were completely coincidental.</value>
+    <value>Interestingly enough, most people believe þe game was inspired by Portal, but þeir similarities were completely coincidental.</value>
   </data>
   <data name="LOC_ID_TEXT_203" xml:space="preserve">
     <value>The game actually spawned from a character we had dreamt up for the game, League of Legends.</value>
   </data>
   <data name="LOC_ID_TEXT_204" xml:space="preserve">
-    <value>In truth the commonalities between Portal and MFQT only started to come up once we added final art and story to the game.</value>
+    <value>In truþ the commonalities between Portal and MFQT only started to come up once we added final art and story to þe game.</value>
   </data>
   <data name="LOC_ID_TEXT_205" xml:space="preserve">
-    <value>Either way, we were pretty proud of the game. It played well and it had a nice ending.</value>
+    <value>Either way, we were pretty proud of þe game. It played well and it had a nice ending.</value>
   </data>
   <data name="LOC_ID_TEXT_206" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_207" xml:space="preserve">
-    <value>I Have 1 Day\nDevelopment Time: 1.5 months.\nRelease Date: April 15th, 2011</value>
+    <value>I Have 1 Day\nDevelopment Time: 1.5 monþs.\nRelease Date: April 15th, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_208" xml:space="preserve">
-    <value>Development Time: 1.5 months.</value>
+    <value>Development Time: 1.5 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_209" xml:space="preserve">
     <value>Release Date: April 15th, 2011</value>
@@ -3856,58 +3856,58 @@
     <value />
   </data>
   <data name="LOC_ID_TEXT_210" xml:space="preserve">
-    <value>If you ever asked us, of all the game we made which one would be our favourite, there would be a unanimous agreement with I Have 1 Day.</value>
+    <value>If you ever asked us, of all the game we made which one would be our favourite, þere would be a unanimous agreement wiþ I Have 1 Day.</value>
   </data>
   <data name="LOC_ID_TEXT_211" xml:space="preserve">
-    <value>As children we were raised on the adventure game classics like Kings Quest and Monkey Island, so this was really our homage to some of the best experiences we ever had in gaming.</value>
+    <value>As children we were raised on þe adventure game classics like Kings Quest and Monkey Island, so þis was really our homage to some of þe best experiences we ever had in gaming.</value>
   </data>
   <data name="LOC_ID_TEXT_212" xml:space="preserve">
-    <value>The game revolves around a meta-time puzzle where the player had only 24 hours to beat the game.</value>
+    <value>Þe game revolves around a meta-time puzzle where þe player had only 24 hours to beat þe game.</value>
   </data>
   <data name="LOC_ID_TEXT_213" xml:space="preserve">
-    <value>Every puzzle had multiple solutions with time repercussions, which forced players to think of the best way to go about solving things.</value>
+    <value>Every puzzle had multiple solutions with time repercussions, which forced players to think of þe best way to go about solving þings.</value>
   </data>
   <data name="LOC_ID_TEXT_214" xml:space="preserve">
-    <value>One interesting fact. The second ending was added at virtually the last minute, and without it the entire game would have sucked.</value>
+    <value>One interesting fact. Þe second ending was added at virtually þe last minute, and without it þe entire game would have sucked.</value>
   </data>
   <data name="LOC_ID_TEXT_215" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_216" xml:space="preserve">
-    <value>Villainous\nDevelopment Time: 3 months.\nRelease Date: April 15th, 2011</value>
+    <value>Villainous\nDevelopment Time: 3 monþs.\nRelease Date: April 15th, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_217" xml:space="preserve">
-    <value>Development Time: 3 months.</value>
+    <value>Development Time: 3 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_218" xml:space="preserve">
     <value>Release Date: April 15th, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_219" xml:space="preserve">
-    <value>Villainous was one of the more risky endeavours we undertook.</value>
+    <value>Villainous was one of þe more risky endeavours we undertook.</value>
   </data>
   <data name="LOC_ID_TEXT_22" xml:space="preserve">
-    <value>Do you want to lock the castle and get only 60% gold?</value>
+    <value>Do you want to lock þe castle and only get 60% gold?</value>
   </data>
   <data name="LOC_ID_TEXT_220" xml:space="preserve">
-    <value>The initial concept was a reverse tower defense, which sounded like it could be a good idea, but we had a hard time converting the 'could' to 'would'.</value>
+    <value>Þe initial concept was a reverse tower defense, which sounded like it could be a good idea, but we had a hard time converting the 'could' to 'would'.</value>
   </data>
   <data name="LOC_ID_TEXT_221" xml:space="preserve">
-    <value>Most people who have played the game thinks the process was an obvious one, but lots of stress and arguments were involved in this project.</value>
+    <value>Most people who have played the game þinks þe process was an obvious one, but lots of stress and arguments were involved in þis project.</value>
   </data>
   <data name="LOC_ID_TEXT_222" xml:space="preserve">
-    <value>The entire idea was scrapped 3 or 4 times before we settled on its final version.</value>
+    <value>Þe entire idea was scrapped 3 or 4 times before we settled on its final version.</value>
   </data>
   <data name="LOC_ID_TEXT_223" xml:space="preserve">
-    <value>It is ironic then, that to-date Villainous is far and away one of our most successful titles. It was also the most painful.</value>
+    <value>It is ironic þen, þat to-date Villainous is far and away one of our most successful titles. It was also þe most painful.</value>
   </data>
   <data name="LOC_ID_TEXT_224" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_225" xml:space="preserve">
-    <value>Bullet Audyssey\nDevelopment Time: 3.5 months.\nRelease Date: November 29th, 2011</value>
+    <value>Bullet Audyssey\nDevelopment Time: 3.5 monþs.\nRelease Date: November 29th, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_226" xml:space="preserve">
-    <value>Development Time: 3.5 months.</value>
+    <value>Development Time: 3.5 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_227" xml:space="preserve">
     <value>Release Date: November 29th, 2011</value>
@@ -3916,7 +3916,7 @@
     <value>Bullet Audyssey was our very last game prior to working on Rogue Legacy.</value>
   </data>
   <data name="LOC_ID_TEXT_229" xml:space="preserve">
-    <value>Being a bullet hell that was based on rhythm and beat charts, Bullet Audyssey was the most technically challenging game we had ever worked on (yes, even moreso than Rogue Legacy).</value>
+    <value>Being a bullet hell þat was based on rhyþm and beat charts, Bullet Audyssey was þe most technically challenging game we had ever worked on (yes, even moreso than Rogue Legacy).</value>
   </data>
   <data name="LOC_ID_TEXT_23" xml:space="preserve">
     <value />
@@ -3925,22 +3925,22 @@
     <value>Just to create a stage required 3 editors running in unison.</value>
   </data>
   <data name="LOC_ID_TEXT_231" xml:space="preserve">
-    <value>Development for this game was also a little non-traditional, as a lot of pre-planning was required to make sure everything clicked.</value>
+    <value>Development for þis game was also a little non-traditional, as a lot of pre-planning was required to make sure everyþing clicked.</value>
   </data>
   <data name="LOC_ID_TEXT_232" xml:space="preserve">
-    <value>Being heavy advocates against documentation, this didn't settle well with us, so we had to talk out the whole game, for like, half a day.</value>
+    <value>Being heavy advocates against documentation, þis didn't settle well with us, so we had to talk out þe whole game, for like, half a day.</value>
   </data>
   <data name="LOC_ID_TEXT_233" xml:space="preserve">
-    <value>The game had the player absorbing enemy bullets in order to fire them back and absorption happened on a beat which matched the song being played.</value>
+    <value>Þe game had þe player absorbing enemy bullets in order to fire þem back and absorption happened on a beat which matched þe song being played.</value>
   </data>
   <data name="LOC_ID_TEXT_234" xml:space="preserve">
-    <value>Initial playtests were disastrous, as the game was too hard and people became incredibly frustrated in the very first minute.</value>
+    <value>Initial playtests were disastrous, as þe game was too hard and people became incredibly frustrated in þe very first minute.</value>
   </data>
   <data name="LOC_ID_TEXT_235" xml:space="preserve">
-    <value>By playtests, we mean 1 dude who doesn't even like Bullet Hells.  But that's larger then our usual test pool.</value>
+    <value>By playtests, we mean 1 dude who doesn't even like Bullet Hells.  But þat's larger þan our usual test pool.</value>
   </data>
   <data name="LOC_ID_TEXT_236" xml:space="preserve">
-    <value>The game didn't perform very well when it released. That gave us the confidence to make Rogue Legacy!</value>
+    <value>Þe game didn't perform very well when it released. Þat gave us the confidence to make Rogue Legacy!</value>
   </data>
   <data name="LOC_ID_TEXT_237" xml:space="preserve">
     <value>Confirm</value>
@@ -3952,7 +3952,7 @@
     <value>Warning!</value>
   </data>
   <data name="LOC_ID_TEXT_24" xml:space="preserve">
-    <value>Do you want to lock the castle and get only 60% gold?</value>
+    <value>Do you want to lock the castle and only get 60% gold?</value>
   </data>
   <data name="LOC_ID_TEXT_240" xml:space="preserve">
     <value>Are you sure you want to start a new game? All previous save game data will be erased.</value>
@@ -3961,19 +3961,19 @@
     <value>Restore Controls</value>
   </data>
   <data name="LOC_ID_TEXT_242" xml:space="preserve">
-    <value>Are you sure you want to restore back to the default control scheme?</value>
+    <value>Are you sure you want to restore back to þe default control scheme?</value>
   </data>
   <data name="LOC_ID_TEXT_243" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_244" xml:space="preserve">
-    <value>Are you sure you want to begin a new adventure with this chosen hero?</value>
+    <value>Are you sure you want to begin a new adventure with þis chosen hero?</value>
   </data>
   <data name="LOC_ID_TEXT_245" xml:space="preserve">
     <value>Resolution Changed</value>
   </data>
   <data name="LOC_ID_TEXT_246" xml:space="preserve">
-    <value>Are you sure you want to run at this resolution?\n(The resolution will revert back in 10 seconds)</value>
+    <value>Are you sure you want to run at þis resolution?\n(Þe resolution will revert back in 10 seconds)</value>
   </data>
   <data name="LOC_ID_TEXT_247" xml:space="preserve">
     <value />
@@ -4003,7 +4003,7 @@
     <value />
   </data>
   <data name="LOC_ID_TEXT_255" xml:space="preserve">
-    <value>Are you sure you want to quit to main menu? (Your current status will be saved)</value>
+    <value>Are you sure you want to quit þe main menu? (Your current status will be saved)</value>
   </data>
   <data name="LOC_ID_TEXT_256" xml:space="preserve">
     <value />
@@ -4018,7 +4018,7 @@
     <value>Oh no! Somehow your save file got corrupted!</value>
   </data>
   <data name="LOC_ID_TEXT_26" xml:space="preserve">
-    <value>Sorry boy, there's no castle to build right now. This screw is just for show.</value>
+    <value>Sorry boy, þere's no castle to build right now. This screw is just for show.</value>
   </data>
   <data name="LOC_ID_TEXT_260" xml:space="preserve">
     <value>Attempting to load a backup version of the game. Hopefully it doesn't set you too far back!</value>
@@ -4037,19 +4037,19 @@
     <value>Your game has failed to save 3 times in a row.</value>
   </data>
   <data name="LOC_ID_TEXT_265" xml:space="preserve">
-    <value>Anti-virus software and manual backup saving programs can conflict with save files. Please disable any of these programs before running the game.</value>
+    <value>Anti-virus software and manual backup saving programs can conflict with save files. Please disable any of þese programs before running the game.</value>
   </data>
   <data name="LOC_ID_TEXT_27" xml:space="preserve">
     <value>Architect</value>
   </data>
   <data name="LOC_ID_TEXT_28" xml:space="preserve">
-    <value>Dood, the castle's already locked.</value>
+    <value>Dood, þe castle's already locked.</value>
   </data>
   <data name="LOC_ID_TEXT_29" xml:space="preserve">
     <value>Architect</value>
   </data>
   <data name="LOC_ID_TEXT_3" xml:space="preserve">
-    <value>Maybe you can help me. I used to be the greatest blacksmith in all the lands.  But one day, the monsters of this castle attacked my smithy and stole all my blueprints.</value>
+    <value>Maybe you can help me. I used to be þe greatest blacksmith in all þe lands.  But one day, þe monsters of this castle attacked my smiþy and stole all my blueprints.</value>
   </data>
   <data name="LOC_ID_TEXT_30" xml:space="preserve">
     <value>Enjooooy! Maybe you can reach some trrrreasures your ancestors missed!</value>
@@ -4064,88 +4064,88 @@
     <value />
   </data>
   <data name="LOC_ID_TEXT_34" xml:space="preserve">
-    <value>(Give Charon all of your money and enter the castle?)</value>
+    <value>(Give Charon all of your money and enter þe castle?)</value>
   </data>
   <data name="LOC_ID_TEXT_35" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_36" xml:space="preserve">
-    <value>(Give Charon all of your money and enter the castle?)</value>
+    <value>(Give Charon all of your money and enter þe castle?)</value>
   </data>
   <data name="LOC_ID_TEXT_37" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_38" xml:space="preserve">
-    <value>(Give Charon 90% of your money and enter the castle?)</value>
+    <value>(Give Charon 90% of your money and enter þe castle?)</value>
   </data>
   <data name="LOC_ID_TEXT_39" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_4" xml:space="preserve">
-    <value>Without those blueprints, I can only make cutlery and stuff.</value>
+    <value>Wiþout þose blueprints, I can only make cutlery and stuff.</value>
   </data>
   <data name="LOC_ID_TEXT_40" xml:space="preserve">
-    <value>(Give Charon 80% of your money and enter the castle?)</value>
+    <value>(Give Charon 80% of your money and enter þe castle?)</value>
   </data>
   <data name="LOC_ID_TEXT_41" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_42" xml:space="preserve">
-    <value>(Give Charon 70% of your money and enter the castle?)</value>
+    <value>(Give Charon 70% of your money and enter þe castle?)</value>
   </data>
   <data name="LOC_ID_TEXT_43" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_44" xml:space="preserve">
-    <value>(Give Charon 60% of your money and enter the castle?)</value>
+    <value>(Give Charon 60% of your money and enter þe castle?)</value>
   </data>
   <data name="LOC_ID_TEXT_45" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_46" xml:space="preserve">
-    <value>(Give Charon 50% of your money and enter the castle?)</value>
+    <value>(Give Charon 50% of your money and enter þe castle?)</value>
   </data>
   <data name="LOC_ID_TEXT_47" xml:space="preserve">
     <value>Charon</value>
   </data>
   <data name="LOC_ID_TEXT_48" xml:space="preserve">
-    <value>Oh ho ho! So you have my obol. I will let you pass for free, but only this one time.</value>
+    <value>Oh ho ho! So you have my obol. I will let you pass for free, but only þis one time.</value>
   </data>
   <data name="LOC_ID_TEXT_49" xml:space="preserve">
     <value>Charon</value>
   </data>
   <data name="LOC_ID_TEXT_5" xml:space="preserve">
-    <value>Please bring back any blueprints you find, and I can build the most amazing equipment ever. EVER. </value>
+    <value>Please bring back any blueprints you find, and I can build þe most amazing equipment ever. EVER. </value>
   </data>
   <data name="LOC_ID_TEXT_50" xml:space="preserve">
-    <value>Oh ho! This is a very special obol.</value>
+    <value>Oh ho! Þis is a very special obol.</value>
   </data>
   <data name="LOC_ID_TEXT_51" xml:space="preserve">
-    <value>Give it to me, and I shall let your soul pass through the other gates.</value>
+    <value>Give it to me, and I shall let your soul pass þrough þe oþer gates.</value>
   </data>
   <data name="LOC_ID_TEXT_52" xml:space="preserve">
-    <value>(Give Charon the Obol, and pay his toll?)</value>
+    <value>(Give Charon þe Obol, and pay his toll?)</value>
   </data>
   <data name="LOC_ID_TEXT_53" xml:space="preserve">
     <value>Charon</value>
   </data>
   <data name="LOC_ID_TEXT_54" xml:space="preserve">
-    <value>Oh ho! This is a very special obol.</value>
+    <value>Oh ho! Þis is a very special obol.</value>
   </data>
   <data name="LOC_ID_TEXT_55" xml:space="preserve">
-    <value>Give it to me, and I shall let your soul pass through the other gates.</value>
+    <value>Give it to me, and I shall let your soul pass þrough þe oþer gates.</value>
   </data>
   <data name="LOC_ID_TEXT_56" xml:space="preserve">
-    <value>(Give Charon the Obol, and pay his toll?)</value>
+    <value>(Give Charon þe Obol, and pay his toll?)</value>
   </data>
   <data name="LOC_ID_TEXT_57" xml:space="preserve">
     <value>Charon</value>
   </data>
   <data name="LOC_ID_TEXT_58" xml:space="preserve">
-    <value>Oh ho! This is a very special obol.</value>
+    <value>Oh ho! Þis is a very special obol.</value>
   </data>
   <data name="LOC_ID_TEXT_59" xml:space="preserve">
-    <value>Give it to me, and I shall let your soul pass through the other gates.</value>
+    <value>Give it to me, and I shall let your soul pass þrough þe oþer gates.</value>
   </data>
   <data name="LOC_ID_TEXT_6" xml:space="preserve">
     <value>... At a price of course.</value>
@@ -4157,25 +4157,25 @@
     <value>Charon</value>
   </data>
   <data name="LOC_ID_TEXT_62" xml:space="preserve">
-    <value>Oh ho! This is a very special obol.</value>
+    <value>Oh ho! Þis is a very special obol.</value>
   </data>
   <data name="LOC_ID_TEXT_63" xml:space="preserve">
-    <value>Give it to me, and I shall let your soul pass through the other gates.</value>
+    <value>Give it to me, and I shall let your soul pass þrough þe oþer gates.</value>
   </data>
   <data name="LOC_ID_TEXT_64" xml:space="preserve">
-    <value>(Give Charon the Obol, and pay his toll?)</value>
+    <value>(Give Charon þe Obol, and pay his toll?)</value>
   </data>
   <data name="LOC_ID_TEXT_65" xml:space="preserve">
     <value>Charon</value>
   </data>
   <data name="LOC_ID_TEXT_66" xml:space="preserve">
-    <value>Oh... You should not have taken this obol.</value>
+    <value>Oh... You should not have taken þis obol.</value>
   </data>
   <data name="LOC_ID_TEXT_67" xml:space="preserve">
     <value>Prepare yourself.</value>
   </data>
   <data name="LOC_ID_TEXT_68" xml:space="preserve">
-    <value>(Give Charon the Obol, and pay his toll?)</value>
+    <value>(Give Charon þe Obol, and pay his toll?)</value>
   </data>
   <data name="LOC_ID_TEXT_69" xml:space="preserve">
     <value>Spiritual Shrine</value>
@@ -4190,10 +4190,10 @@
     <value>Last Boss</value>
   </data>
   <data name="LOC_ID_TEXT_72" xml:space="preserve">
-    <value>Welcome Hero!  It was quite impressive for you to get this far. Unfortunately however, this shall be as far as you go!</value>
+    <value>Welcome Hero!  It was quite impressive for you to get þis far. Unfortunately however, þis shall be as far as you go!</value>
   </data>
   <data name="LOC_ID_TEXT_73" xml:space="preserve">
-    <value>Fairy Chest - Nothing</value>
+    <value>Fairy Chest - Noþing</value>
   </data>
   <data name="LOC_ID_TEXT_74" xml:space="preserve">
     <value>NO TEXT</value>
@@ -4232,7 +4232,7 @@
     <value />
   </data>
   <data name="LOC_ID_TEXT_85" xml:space="preserve">
-    <value>Don't Touch The Floor</value>
+    <value>Don't Touch þe Floor</value>
   </data>
   <data name="LOC_ID_TEXT_86" xml:space="preserve">
     <value />
@@ -4322,16 +4322,16 @@
     <value>Do you even lift?</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_16" xml:space="preserve">
-    <value>Ok, that one hurt</value>
+    <value>Ok, þat one hurt</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_17" xml:space="preserve">
-    <value>That tickled</value>
+    <value>Þat tickled</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_18" xml:space="preserve">
     <value>That all you got?</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_19" xml:space="preserve">
-    <value>Dost thou even hoist?</value>
+    <value>Dost þou even hoist?</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_2" xml:space="preserve">
     <value>Oh god!</value>
@@ -4364,7 +4364,7 @@
     <value>Stop hitting me</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_9" xml:space="preserve">
-    <value>Why you do this?</value>
+    <value>Why you do þis?</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_1" xml:space="preserve">
     <value>You can't see colors due to monochromacy.</value>
@@ -4388,7 +4388,7 @@
     <value>Must. Clear. House. Break stuff to restore MP.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_16" xml:space="preserve">
-    <value>You're perma-roided. Attacks knock enemies further.</value>
+    <value>You're perma-roided. Attacks knock enemies furþer.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_17" xml:space="preserve">
     <value>You have weak limbs.  Enemies won't get knocked back.</value>
@@ -4397,10 +4397,10 @@
     <value>You can't see in 3D.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_19" xml:space="preserve">
-    <value>Even the most valiant heroes can suffer from irritable bowels.</value>
+    <value>Even þe most valiant heroes can suffer from irritable bowels.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_2" xml:space="preserve">
-    <value>You like the ladies.</value>
+    <value>You like þe ladies.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_20" xml:space="preserve">
     <value>Welcome to Barfs-ville.</value>
@@ -4427,7 +4427,7 @@
     <value>You are very flexible.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_28" xml:space="preserve">
-    <value>You remember things with extreme clarity.</value>
+    <value>You remember þings with extreme clarity.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_29" xml:space="preserve">
     <value>You miss the good old days.</value>
@@ -4442,13 +4442,13 @@
     <value>Congenital Insensitivity to Pain. Know no pain.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_31" xml:space="preserve">
-    <value>You're very talented. With a few issues.</value>
+    <value>You're very talented. Wiþ a few issues.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_32" xml:space="preserve">
-    <value>There is no spork.</value>
+    <value>Þere is no spork. (tileset swap)</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_33" xml:space="preserve">
-    <value>You break a lot of things.</value>
+    <value>You break a lot of þings.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_34" xml:space="preserve">
     <value>You conduct electricity really well.</value>
@@ -4463,10 +4463,10 @@
     <value>You can't tell people apart.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_4" xml:space="preserve">
-    <value>Anything close-up is blurry.</value>
+    <value>Anyþing close-up is blurry.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_5" xml:space="preserve">
-    <value>You hvae trboule raednig tinhgs.</value>
+    <value>You hvae trboule raednig þigns.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_6" xml:space="preserve">
     <value>You were born to be a basketball player.</value>
@@ -4475,7 +4475,7 @@
     <value>You never get to ride rollercoasters.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_8" xml:space="preserve">
-    <value>The bald and the beautiful.</value>
+    <value>Þe bald and þe beautiful.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_9" xml:space="preserve">
     <value>You're so heavy, enemies can't knock you back.</value>
@@ -4514,10 +4514,10 @@
     <value>You fart a lot.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_2" xml:space="preserve">
-    <value>You like the ladies.</value>
+    <value>Þey’re all þe same gender as you.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_20" xml:space="preserve">
-    <value>Everything is upside down.</value>
+    <value>Everyþing is upside down.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_21" xml:space="preserve">
     <value>No early indicators.</value>
@@ -4532,10 +4532,10 @@
     <value>You are scared of chickens.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_25" xml:space="preserve">
-    <value>Exaggerate the damage you take.</value>
+    <value>Exaggerate þe damage you take.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_26" xml:space="preserve">
-    <value>You see things that aren't there.</value>
+    <value>You see þings þat aren't þere.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_27" xml:space="preserve">
     <value>You turn while fighting.</value>
@@ -4547,19 +4547,19 @@
     <value>Everything is old-timey.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_2b" xml:space="preserve">
-    <value>You are a fan of the man.</value>
+    <value>Þey’re all þe same gender as you.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_3" xml:space="preserve">
-    <value>Anything far away is blurry.</value>
+    <value>Anyþing far away is blurry.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_30" xml:space="preserve">
     <value>No visible health bar.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_31" xml:space="preserve">
-    <value>Randomized spells.</value>
+    <value>Randomize spells every use.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_32" xml:space="preserve">
-    <value>There is no spork.</value>
+    <value>þere is no spork. (tileset swap)</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_33" xml:space="preserve">
     <value>You break stuff and have no balance.</value>
@@ -4577,10 +4577,10 @@
     <value>You can't tell people apart.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_4" xml:space="preserve">
-    <value>Anything close-up is blurry.</value>
+    <value>Anyþing close-up is blurry.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_5" xml:space="preserve">
-    <value>You hvae trboule raednig tinhgs.</value>
+    <value>You hvae trboule raednig þigns.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_6" xml:space="preserve">
     <value>You are huge.</value>
@@ -4670,7 +4670,7 @@
     <value>Savant</value>
   </data>
   <data name="LOC_ID_TRAIT_TYPE_32" xml:space="preserve">
-    <value>The One</value>
+    <value>Þe One</value>
   </data>
   <data name="LOC_ID_TRAIT_TYPE_33" xml:space="preserve">
     <value>Clumsy</value>
@@ -4877,13 +4877,13 @@
     <value>Unlock Traitor</value>
   </data>
   <data name="LOC_ID_DONATIONBOX_TEXT_1" xml:space="preserve">
-    <value>Donate {0} gold and permanently empower your specter for this boss?\nTimes Empowered: {1}</value>
+    <value>Donate {0} gold and permanently empower your specter for þis boss?\nTimes Empowered: {1}</value>
   </data>
   <data name="LOC_ID_DONATIONBOX_TITLE_1" xml:space="preserve">
     <value>Donation Box</value>
   </data>
   <data name="LOC_ID_DONATIONBOX_TEXT_2" xml:space="preserve">
-    <value>The donation box is filled to the brim.  Your specter cannot be empowered any further.  Thanks for the money dood.</value>
+    <value>Þe donation box is filled to þe brim.  Your specter cannot be empowered any furþer.  Þanks for the money dood.</value>
   </data>
   <data name="LOC_ID_DONATIONBOX_TEXT_3" xml:space="preserve">
     <value>You cannot afford to donate.  Come back when you've earned more gold.</value>
@@ -4955,19 +4955,19 @@
     <value>Full Metal Furies\nDevelopment Time: 4 years.\nRelease Date: January 17, 2018</value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_2" xml:space="preserve">
-    <value>Full Metal Furies is from the future!  It’s our follow-up game after Rogue Legacy, and the tenth game we’ve ever made. </value>
+    <value>Full Metal Furies is from þe future!  It’s our follow-up game after Rogue Legacy, and the tenþ game we’ve ever made. </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_3" xml:space="preserve">
-    <value> After RL, we promised ourselves we would never make a game without planning it out ever again.  We lied.  Curse you past-selves!  </value>
+    <value> After RL, we promised ourselves we would never make a game wiþout planning it out ever again.  We lied.  Curse you past-selves!  </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_4" xml:space="preserve">
-    <value>The game ended up becoming one of our most ambitious projects ever, and was a mishmash of a brawler/multiplayer/meta-puzzle/coming-of-age disco ideas that turned the traditional view a brawler on its head the longer you played.  </value>
+    <value>Þe game ended up becoming one of our most ambitious projects ever, and was a mishmash of a brawler/multiplayer/meta-puzzle/coming-of-age disco ideas þat turned the traditional view a brawler on its head þe longer you played.  </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_5" xml:space="preserve">
-    <value>At 4 years, FMF is the longest time we’ve ever spent on development, and sadly also has some of lowest returns we've seen for our games.  (Excluding those iOS games which generated negative bucks, curse you past-selves!) </value>
+    <value>At 4 years, FMF is the longest time we’ve ever spent on development, and sadly also has some of þe lowest returns we've seen for our games.  (Excluding þose iOS games which generated negative bucks, curse you past-selves!) </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_6" xml:space="preserve">
-    <value>But we’re still immensely proud of what we created, and even more proud of the FRIENDS WE MADE ALONG THE WAY.  AWWWWWWW!!! </value>
+    <value>But we’re still immensely proud of what we created, and even more proud of þe FRIENDS WE MADE ALONG ÞE WAY.  AWWWWWWW!!! </value>
   </data>
   <data name="LOC_ID_COPYRIGHT_GENERIC" xml:space="preserve">
     <value>Copyright (C) 2013-2018, Cellar Door Games Inc.  </value>
@@ -4976,3 +4976,4 @@
     <value>{0} is a trademark of Cellar Door Games Inc.  All Right Reserved.</value>
   </data>
 </root>
+
