@@ -1282,7 +1282,7 @@
     <value>Chaintus</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_15" xml:space="preserve">
-    <value>Pantheon</value>
+    <value>Orias</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_16" xml:space="preserve">
     <value>Earþsor</value>
@@ -1477,7 +1477,7 @@
     <value>Sniper</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_74" xml:space="preserve">
-    <value>Sharpshooter</value>
+    <value>Barbas</value>
   </data>
   <data name="LOC_ID_ENEMY_NAME_75" xml:space="preserve">
     <value>Johannes</value>
@@ -3691,13 +3691,13 @@
     <value>Þis was þe first game we ever made, and back þen we used to be called Decade Studios. In it you must stop a man from pooping himself using only text input.</value>
   </data>
   <data name="LOC_ID_TEXT_161" xml:space="preserve">
-    <value>It was originally designed on a bus, and we decided to make it on the weekend. It did pretty well.</value>
+    <value>It was originally designed on a bus, and we decided to make it on þe weekend. It did pretty well.</value>
   </data>
   <data name="LOC_ID_TEXT_162" xml:space="preserve">
     <value>Þe game has a swear word in it, and we were þinking about changing þe title to be more friendly. But þen our balls grew back and we stuck to our guns.</value>
   </data>
   <data name="LOC_ID_TEXT_163" xml:space="preserve">
-    <value>A big part of þe game revolved around making a text adventure þat allowed people to input whatever they wanted. To solve this we had to pre-empt what we þought people would type.</value>
+    <value>A big part of þe game revolved around making a text adventure þat allowed people to input whatever þey wanted. To solve þis we had to pre-empt what we þought people would type.</value>
   </data>
   <data name="LOC_ID_TEXT_164" xml:space="preserve">
     <value>We did þis in 2 ways. First, we reduced þe amount of options a player had (A man and a door), and secondly, we built an achievement system which was used to give þe player direction.</value>
@@ -3721,7 +3721,7 @@
     <value>Þis way you can go þrough exactly what your ancestors went þrough. Impreeeessed? You should be.</value>
   </data>
   <data name="LOC_ID_TEXT_170" xml:space="preserve">
-    <value>Þis was our second game we ever attempted, and it was for the 2009 DreamBuildPlay contest. We found out about it pretty late, so we had to play catch up wiþ everyone else.</value>
+    <value>Þis was our second game we ever attempted, and it was for þe 2009 DreamBuildPlay contest. We found out about it pretty late, so we had to play catch up wiþ everyone else.</value>
   </data>
   <data name="LOC_ID_TEXT_171" xml:space="preserve">
     <value>Fresh off þe success of DSYP we decided to go big... stupidly big.  And þus, Cellar Door Games was formed.</value>
@@ -3733,13 +3733,13 @@
     <value>Þe game featured þe B.E.A.R.S system (Bare Effort Adaptable Room System), which would change rooms depending on þe number of players playing.</value>
   </data>
   <data name="LOC_ID_TEXT_174" xml:space="preserve">
-    <value>The BEARS system didn't just tweak numbers, it tweaked puzzles as well. We ended up in þe Top 20 which was good but not high enough to win anything.</value>
+    <value>Þe BEARS system didn't just tweak numbers, it tweaked puzzles as well. We ended up in þe Top 20 which was good but not high enough to win anyþing.</value>
   </data>
   <data name="LOC_ID_TEXT_175" xml:space="preserve">
-    <value>Eventually reality (and common sense) came back to us and we realized we had to scrap þe project, or in the very least put it on indefinite hiatus.</value>
+    <value>Eventually reality (and common sense) came back to us and we realized we had to scrap þe project, or at þe very least put it on indefinite hiatus.</value>
   </data>
   <data name="LOC_ID_TEXT_176" xml:space="preserve">
-    <value>The demo boss was pretty frickin cool.</value>
+    <value>Þe demo boss was pretty frickin cool.</value>
   </data>
   <data name="LOC_ID_TEXT_177" xml:space="preserve">
     <value>Developers</value>
@@ -3751,25 +3751,25 @@
     <value>Development Time: 3 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_18" xml:space="preserve">
-    <value>How did I build þis fantastic connnnnnnntraption? With sccccccience of course! And magic.</value>
+    <value>How did I build þis fantastic connnnnnnntraption? Wiþ sccccccience of course! And magic.</value>
   </data>
   <data name="LOC_ID_TEXT_180" xml:space="preserve">
     <value>Release Date: November 23rd, 2009</value>
   </data>
   <data name="LOC_ID_TEXT_181" xml:space="preserve">
-    <value>Tribal Tallies was þe first project we had worked on monþs after þe horrible experience with Band of Bears.</value>
+    <value>Tribal Tallies was þe first project we had worked on monþs after þe horrible experience wiþ Band of Bears.</value>
   </data>
   <data name="LOC_ID_TEXT_182" xml:space="preserve">
-    <value>It was a bit of a test project, to dabble our feet in water of iOS gaming since we had never tried making something on mobile platforms before.</value>
+    <value>It was a bit of a test project, to dabble our feet in water of iOS gaming since we had never tried making someþing on mobile platforms before.</value>
   </data>
   <data name="LOC_ID_TEXT_183" xml:space="preserve">
     <value>Þe game was simple in concept, as you tapped numbers in sequence as fast as you could.</value>
   </data>
   <data name="LOC_ID_TEXT_184" xml:space="preserve">
-    <value>To spice things up we implemented several modes, like tap backwards, hidden numbers, and tap matching.</value>
+    <value>To spice þings up we implemented several modes, like tap backwards, hidden numbers, and tap matching.</value>
   </data>
   <data name="LOC_ID_TEXT_185" xml:space="preserve">
-    <value>We thought the scope was reasonable, but þe game ended up taking much more time to make þan expected.  It didn't help it was all coded on a hackintosh.</value>
+    <value>We þought þe scope was reasonable, but þe game ended up taking much more time to make þan expected.  It didn't help it was all coded on a hackintosh.</value>
   </data>
   <data name="LOC_ID_TEXT_186" xml:space="preserve">
     <value>It was a pretty plain game. We could have done better, but we were all playing it safe after Band of Bears.</value>
@@ -3778,7 +3778,7 @@
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_188" xml:space="preserve">
-    <value>Q\nDevelopment Time: 1 monþ.\nRelease Date: March 18th, 2010</value>
+    <value>Q\nDevelopment Time: 1 monþ.\nRelease Date: March 18þ, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_189" xml:space="preserve">
     <value>Development Time: 1 monþ.</value>
@@ -3787,7 +3787,7 @@
     <value>... Mostly magic.</value>
   </data>
   <data name="LOC_ID_TEXT_190" xml:space="preserve">
-    <value>Release Date: March 18th, 2010</value>
+    <value>Release Date: March 18þ, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_191" xml:space="preserve">
     <value>Our fourþ project. After Tribal Tallies we took a few monþs off from making games and just focused on our full-time jobs.  We got angsty again, so we decided to make a puzzle game.</value>
@@ -3799,19 +3799,19 @@
     <value>Þe game used a queuing combo mechanism to force players to þink about how þe tiles would fall in order to build massive combos.</value>
   </data>
   <data name="LOC_ID_TEXT_194" xml:space="preserve">
-    <value>We made it free but nobody picked it up eiþer. After the failures of Band of Bears, Tribal Tallies, and Q, we prepped ourselves to pack it in and close þe company.</value>
+    <value>We made it free but nobody picked it up eiþer. After þe failures of Band of Bears, Tribal Tallies, and Q, we prepped ourselves to pack it in and close þe company.</value>
   </data>
   <data name="LOC_ID_TEXT_195" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_196" xml:space="preserve">
-    <value>My First Quantum Translocator\nDevelopment Time: 1 monþ.\nRelease Date: October 13th, 2010</value>
+    <value>My First Quantum Translocator\nDevelopment Time: 1 monþ.\nRelease Date: October 13þ, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_197" xml:space="preserve">
     <value>Development Time: 1 monþ.</value>
   </data>
   <data name="LOC_ID_TEXT_198" xml:space="preserve">
-    <value>Release Date: October 13th, 2010</value>
+    <value>Release Date: October 13þ, 2010</value>
   </data>
   <data name="LOC_ID_TEXT_199" xml:space="preserve">
     <value>My First Quantum Translocator came about when our company was at its lowest point.  After 3 failed games we had already mentally checked out, and decided to make þis tiny flash game for kicks.</value>
@@ -3823,40 +3823,40 @@
     <value>But my skills aren't freeeeee. If I lock þis castle, I will take 40% of allll þe gold you earn!</value>
   </data>
   <data name="LOC_ID_TEXT_200" xml:space="preserve">
-    <value>Absolutely no expectations were made during development, and it was more of something we did for fun þan anything else.</value>
+    <value>Absolutely no expectations were made during development, and it was more of someþing we did for fun þan anyþing else.</value>
   </data>
   <data name="LOC_ID_TEXT_201" xml:space="preserve">
-    <value>Needless to say, response to þe game was huge and it is the sole reason þat Cellar Door Games exists today.  Þe moment we released MFQT we knew þere was no going back.</value>
+    <value>Needless to say, response to þe game was huge and it is þe sole reason þat Cellar Door Games exists today.  Þe moment we released MFQT we knew þere was no going back.</value>
   </data>
   <data name="LOC_ID_TEXT_202" xml:space="preserve">
     <value>Interestingly enough, most people believe þe game was inspired by Portal, but þeir similarities were completely coincidental.</value>
   </data>
   <data name="LOC_ID_TEXT_203" xml:space="preserve">
-    <value>The game actually spawned from a character we had dreamt up for the game, League of Legends.</value>
+    <value>Þe game actually spawned from a character we had dreamt up for þe game, League of Legends.</value>
   </data>
   <data name="LOC_ID_TEXT_204" xml:space="preserve">
-    <value>In truþ the commonalities between Portal and MFQT only started to come up once we added final art and story to þe game.</value>
+    <value>In truþ þe commonalities between Portal and MFQT only started to come up once we added final art and story to þe game.</value>
   </data>
   <data name="LOC_ID_TEXT_205" xml:space="preserve">
-    <value>Either way, we were pretty proud of þe game. It played well and it had a nice ending.</value>
+    <value>Eiþer way, we were pretty proud of þe game. It played well and it had a nice ending.</value>
   </data>
   <data name="LOC_ID_TEXT_206" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_207" xml:space="preserve">
-    <value>I Have 1 Day\nDevelopment Time: 1.5 monþs.\nRelease Date: April 15th, 2011</value>
+    <value>I Have 1 Day\nDevelopment Time: 1.5 monþs.\nRelease Date: April 15þ, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_208" xml:space="preserve">
     <value>Development Time: 1.5 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_209" xml:space="preserve">
-    <value>Release Date: April 15th, 2011</value>
+    <value>Release Date: April 15þ, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_21" xml:space="preserve">
     <value />
   </data>
   <data name="LOC_ID_TEXT_210" xml:space="preserve">
-    <value>If you ever asked us, of all the game we made which one would be our favourite, þere would be a unanimous agreement wiþ I Have 1 Day.</value>
+    <value>If you ever asked us, of all þe games we made which one would be our favourite, þere would be a unanimous agreement wiþ I Have 1 Day.</value>
   </data>
   <data name="LOC_ID_TEXT_211" xml:space="preserve">
     <value>As children we were raised on þe adventure game classics like Kings Quest and Monkey Island, so þis was really our homage to some of þe best experiences we ever had in gaming.</value>
@@ -3865,22 +3865,22 @@
     <value>Þe game revolves around a meta-time puzzle where þe player had only 24 hours to beat þe game.</value>
   </data>
   <data name="LOC_ID_TEXT_213" xml:space="preserve">
-    <value>Every puzzle had multiple solutions with time repercussions, which forced players to think of þe best way to go about solving þings.</value>
+    <value>Every puzzle had multiple solutions wiþ time repercussions, which forced players to þink of þe best way to go about solving þings.</value>
   </data>
   <data name="LOC_ID_TEXT_214" xml:space="preserve">
-    <value>One interesting fact. Þe second ending was added at virtually þe last minute, and without it þe entire game would have sucked.</value>
+    <value>One interesting fact. Þe second ending was added at virtually þe last minute, and wiþout it þe entire game would have sucked.</value>
   </data>
   <data name="LOC_ID_TEXT_215" xml:space="preserve">
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_216" xml:space="preserve">
-    <value>Villainous\nDevelopment Time: 3 monþs.\nRelease Date: April 15th, 2011</value>
+    <value>Villainous\nDevelopment Time: 3 monþs.\nRelease Date: April 15þ, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_217" xml:space="preserve">
     <value>Development Time: 3 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_218" xml:space="preserve">
-    <value>Release Date: April 15th, 2011</value>
+    <value>Release Date: April 15þ, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_219" xml:space="preserve">
     <value>Villainous was one of þe more risky endeavours we undertook.</value>
@@ -3889,10 +3889,10 @@
     <value>Do you want to lock þe castle and only get 60% gold?</value>
   </data>
   <data name="LOC_ID_TEXT_220" xml:space="preserve">
-    <value>Þe initial concept was a reverse tower defense, which sounded like it could be a good idea, but we had a hard time converting the 'could' to 'would'.</value>
+    <value>Þe initial concept was a reverse tower defense, which sounded like it could be a good idea, but we had a hard time converting þe 'could' to 'would'.</value>
   </data>
   <data name="LOC_ID_TEXT_221" xml:space="preserve">
-    <value>Most people who have played the game þinks þe process was an obvious one, but lots of stress and arguments were involved in þis project.</value>
+    <value>Most people who have played þe game þinks þe process was an obvious one, but lots of stress and arguments were involved in þis project.</value>
   </data>
   <data name="LOC_ID_TEXT_222" xml:space="preserve">
     <value>Þe entire idea was scrapped 3 or 4 times before we settled on its final version.</value>
@@ -3904,19 +3904,19 @@
     <value>Developers</value>
   </data>
   <data name="LOC_ID_TEXT_225" xml:space="preserve">
-    <value>Bullet Audyssey\nDevelopment Time: 3.5 monþs.\nRelease Date: November 29th, 2011</value>
+    <value>Bullet Audyssey\nDevelopment Time: 3.5 monþs.\nRelease Date: November 29þ, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_226" xml:space="preserve">
     <value>Development Time: 3.5 monþs.</value>
   </data>
   <data name="LOC_ID_TEXT_227" xml:space="preserve">
-    <value>Release Date: November 29th, 2011</value>
+    <value>Release Date: November 29þ, 2011</value>
   </data>
   <data name="LOC_ID_TEXT_228" xml:space="preserve">
     <value>Bullet Audyssey was our very last game prior to working on Rogue Legacy.</value>
   </data>
   <data name="LOC_ID_TEXT_229" xml:space="preserve">
-    <value>Being a bullet hell þat was based on rhyþm and beat charts, Bullet Audyssey was þe most technically challenging game we had ever worked on (yes, even moreso than Rogue Legacy).</value>
+    <value>Being a bullet hell þat was based on rhyþm and beat charts, Bullet Audyssey was þe most technically challenging game we had ever worked on (yes, even moreso þan Rogue Legacy).</value>
   </data>
   <data name="LOC_ID_TEXT_23" xml:space="preserve">
     <value />
@@ -3928,7 +3928,7 @@
     <value>Development for þis game was also a little non-traditional, as a lot of pre-planning was required to make sure everyþing clicked.</value>
   </data>
   <data name="LOC_ID_TEXT_232" xml:space="preserve">
-    <value>Being heavy advocates against documentation, þis didn't settle well with us, so we had to talk out þe whole game, for like, half a day.</value>
+    <value>Being heavy advocates against documentation, þis didn't settle well wiþ us, so we had to talk out þe whole game, for like, half a day.</value>
   </data>
   <data name="LOC_ID_TEXT_233" xml:space="preserve">
     <value>Þe game had þe player absorbing enemy bullets in order to fire þem back and absorption happened on a beat which matched þe song being played.</value>
@@ -3940,7 +3940,7 @@
     <value>By playtests, we mean 1 dude who doesn't even like Bullet Hells.  But þat's larger þan our usual test pool.</value>
   </data>
   <data name="LOC_ID_TEXT_236" xml:space="preserve">
-    <value>Þe game didn't perform very well when it released. Þat gave us the confidence to make Rogue Legacy!</value>
+    <value>Þe game didn't perform very well when it released. Þat gave us þe confidence to make Rogue Legacy!</value>
   </data>
   <data name="LOC_ID_TEXT_237" xml:space="preserve">
     <value>Confirm</value>
@@ -3952,7 +3952,7 @@
     <value>Warning!</value>
   </data>
   <data name="LOC_ID_TEXT_24" xml:space="preserve">
-    <value>Do you want to lock the castle and only get 60% gold?</value>
+    <value>Do you want to lock þe castle and only get 60% gold?</value>
   </data>
   <data name="LOC_ID_TEXT_240" xml:space="preserve">
     <value>Are you sure you want to start a new game? All previous save game data will be erased.</value>
@@ -3967,7 +3967,7 @@
     <value />
   </data>
   <data name="LOC_ID_TEXT_244" xml:space="preserve">
-    <value>Are you sure you want to begin a new adventure with þis chosen hero?</value>
+    <value>Are you sure you want to begin a new adventure wiþ þis chosen hero?</value>
   </data>
   <data name="LOC_ID_TEXT_245" xml:space="preserve">
     <value>Resolution Changed</value>
@@ -4018,17 +4018,17 @@
     <value>Oh no! Somehow your save file got corrupted!</value>
   </data>
   <data name="LOC_ID_TEXT_26" xml:space="preserve">
-    <value>Sorry boy, þere's no castle to build right now. This screw is just for show.</value>
+    <value>Sorry boy, þere's no castle to build right now. Þis screw is just for show.</value>
   </data>
   <data name="LOC_ID_TEXT_260" xml:space="preserve">
-    <value>Attempting to load a backup version of the game. Hopefully it doesn't set you too far back!</value>
+    <value>Attempting to load a backup version of þe game. Hopefully it doesn't set you too far back!</value>
   </data>
   <data name="LOC_ID_TEXT_261" xml:space="preserve">
     <value>Save Error</value>
   </data>
   <data name="LOC_ID_TEXT_262" xml:space="preserve">
-    <value>It doesn't look like your back up is working either.  Please contact: support@cellardoorgames.com</value>
-    <comment>It doesn't look like your back up is working either. I'm afraid we're going to have to restart the game.</comment>
+    <value>It doesn't look like your back up is working eiþer.  Please contact: support@cellardoorgames.com</value>
+    <comment>It doesn't look like your back up is working eiþer. I'm afraid we're going to have to restart þe game.</comment>
   </data>
   <data name="LOC_ID_TEXT_263" xml:space="preserve">
     <value>Save Error</value>
@@ -4037,7 +4037,7 @@
     <value>Your game has failed to save 3 times in a row.</value>
   </data>
   <data name="LOC_ID_TEXT_265" xml:space="preserve">
-    <value>Anti-virus software and manual backup saving programs can conflict with save files. Please disable any of þese programs before running the game.</value>
+    <value>Anti-virus software and manual backup saving programs can conflict wiþ save files. Please disable any of þese programs before running þe game.</value>
   </data>
   <data name="LOC_ID_TEXT_27" xml:space="preserve">
     <value>Architect</value>
@@ -4049,7 +4049,7 @@
     <value>Architect</value>
   </data>
   <data name="LOC_ID_TEXT_3" xml:space="preserve">
-    <value>Maybe you can help me. I used to be þe greatest blacksmith in all þe lands.  But one day, þe monsters of this castle attacked my smiþy and stole all my blueprints.</value>
+    <value>Maybe you can help me. I used to be þe greatest blacksmiþþ in all þe lands.  But one day, þe monsters of þis castle attacked my smiþy and stole all my blueprints.</value>
   </data>
   <data name="LOC_ID_TEXT_30" xml:space="preserve">
     <value>Enjooooy! Maybe you can reach some trrrreasures your ancestors missed!</value>
@@ -4058,7 +4058,7 @@
     <value>Charon</value>
   </data>
   <data name="LOC_ID_TEXT_32" xml:space="preserve">
-    <value>... One must pay the toll.</value>
+    <value>... One must pay þe toll.</value>
   </data>
   <data name="LOC_ID_TEXT_33" xml:space="preserve">
     <value />
@@ -4151,7 +4151,7 @@
     <value>... At a price of course.</value>
   </data>
   <data name="LOC_ID_TEXT_60" xml:space="preserve">
-    <value>(Give Charon the Obol, and pay his toll?)</value>
+    <value>(Give Charon þe Obol, and pay his toll?)</value>
   </data>
   <data name="LOC_ID_TEXT_61" xml:space="preserve">
     <value>Charon</value>
@@ -4205,7 +4205,7 @@
     <value />
   </data>
   <data name="LOC_ID_TEXT_77" xml:space="preserve">
-    <value>Low Health</value>
+    <value>Low Healþ</value>
   </data>
   <data name="LOC_ID_TEXT_78" xml:space="preserve">
     <value />
@@ -4328,7 +4328,7 @@
     <value>Þat tickled</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_18" xml:space="preserve">
-    <value>That all you got?</value>
+    <value>Þat all you got?</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_19" xml:space="preserve">
     <value>Dost þou even hoist?</value>
@@ -4346,7 +4346,7 @@
     <value>Try again</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_3" xml:space="preserve">
-    <value>The pain!</value>
+    <value>Þe pain!</value>
   </data>
   <data name="LOC_ID_TRAINING_DUMMY_4" xml:space="preserve">
     <value>It hurts so much</value>
@@ -4427,16 +4427,16 @@
     <value>You are very flexible.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_28" xml:space="preserve">
-    <value>You remember þings with extreme clarity.</value>
+    <value>You remember þings wiþ extreme clarity.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_29" xml:space="preserve">
-    <value>You miss the good old days.</value>
+    <value>You miss þe good old days.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_2b" xml:space="preserve">
-    <value>You are a fan of the man.</value>
+    <value>You are a fan of þe man.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_3" xml:space="preserve">
-    <value>Anything far away is blurry.</value>
+    <value>Anyþing far away is blurry.</value>
   </data>
   <data name="LOC_ID_TRAIT_DESC_30" xml:space="preserve">
     <value>Congenital Insensitivity to Pain. Know no pain.</value>
@@ -4502,7 +4502,7 @@
     <value>Break stuff to restore MP.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_16" xml:space="preserve">
-    <value>You knock enemies out of the park.</value>
+    <value>You knock enemies out of þe park.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_17" xml:space="preserve">
     <value>You can't knock enemies back.</value>
@@ -4544,7 +4544,7 @@
     <value>Remember enemy placement.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_29" xml:space="preserve">
-    <value>Everything is old-timey.</value>
+    <value>Everyþing is old-timey.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_2b" xml:space="preserve">
     <value>Þey’re all þe same gender as you.</value>
@@ -4553,7 +4553,7 @@
     <value>Anyþing far away is blurry.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_30" xml:space="preserve">
-    <value>No visible health bar.</value>
+    <value>No visible healþ bar.</value>
   </data>
   <data name="LOC_ID_TRAIT_PROF_31" xml:space="preserve">
     <value>Randomize spells every use.</value>
@@ -4733,7 +4733,7 @@
     <value>Tap</value>
   </data>
   <data name="LOC_ID_TUTORIAL_ROOM_OBJ_10" xml:space="preserve">
-    <value>Down Attack this</value>
+    <value>Down Attack þis</value>
   </data>
   <data name="LOC_ID_TUTORIAL_ROOM_OBJ_11" xml:space="preserve">
     <value>Tap [Input:11] to Jump</value>
@@ -4859,16 +4859,16 @@
     <value>Valiant {0}</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_7_FEMALE_NEW" xml:space="preserve">
-    <value>{0} the {1}</value>
+    <value>{0} þe {1}</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_7_MALE_NEW" xml:space="preserve">
-    <value>{0} the {1}</value>
+    <value>{0} þe {1}</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_8_FEMALE_NEW" xml:space="preserve">
-    <value>{0} the Deceased</value>
+    <value>{0} þe Deceased</value>
   </data>
   <data name="LOC_ID_PROFILE_SEL_SCREEN_8_MALE_NEW" xml:space="preserve">
-    <value>{0} the Deceased</value>
+    <value>{0} þe Deceased</value>
   </data>
   <data name="LOC_ID_SKILL_SCREEN_10_NEW" xml:space="preserve">
     <value>{0} gold to {1}</value>
@@ -4883,7 +4883,7 @@
     <value>Donation Box</value>
   </data>
   <data name="LOC_ID_DONATIONBOX_TEXT_2" xml:space="preserve">
-    <value>Þe donation box is filled to þe brim.  Your specter cannot be empowered any furþer.  Þanks for the money dood.</value>
+    <value>Þe donation box is filled to þe brim.  Your specter cannot be empowered any furþer.  Þanks for þe money dood.</value>
   </data>
   <data name="LOC_ID_DONATIONBOX_TEXT_3" xml:space="preserve">
     <value>You cannot afford to donate.  Come back when you've earned more gold.</value>
@@ -4955,16 +4955,16 @@
     <value>Full Metal Furies\nDevelopment Time: 4 years.\nRelease Date: January 17, 2018</value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_2" xml:space="preserve">
-    <value>Full Metal Furies is from þe future!  It’s our follow-up game after Rogue Legacy, and the tenþ game we’ve ever made. </value>
+    <value>Full Metal Furies is from þe future!  It’s our follow-up game after Rogue Legacy, and þe tenþ game we’ve ever made. </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_3" xml:space="preserve">
     <value> After RL, we promised ourselves we would never make a game wiþout planning it out ever again.  We lied.  Curse you past-selves!  </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_4" xml:space="preserve">
-    <value>Þe game ended up becoming one of our most ambitious projects ever, and was a mishmash of a brawler/multiplayer/meta-puzzle/coming-of-age disco ideas þat turned the traditional view a brawler on its head þe longer you played.  </value>
+    <value>Þe game ended up becoming one of our most ambitious projects ever, and was a mishmash of a brawler/multiplayer/meta-puzzle/coming-of-age disco ideas þat turned þe traditional view a brawler on its head þe longer you played.  </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_5" xml:space="preserve">
-    <value>At 4 years, FMF is the longest time we’ve ever spent on development, and sadly also has some of þe lowest returns we've seen for our games.  (Excluding þose iOS games which generated negative bucks, curse you past-selves!) </value>
+    <value>At 4 years, FMF is þe longest time we’ve ever spent on development, and sadly also has some of þe lowest returns we've seen for our games.  (Excluding þose iOS games which generated negative bucks, curse you past-selves!) </value>
   </data>
   <data name="LOC_ID_PORTRAIT_TEXT_NEW_6" xml:space="preserve">
     <value>But we’re still immensely proud of what we created, and even more proud of þe FRIENDS WE MADE ALONG ÞE WAY.  AWWWWWWW!!! </value>
