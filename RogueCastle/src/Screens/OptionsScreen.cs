@@ -134,7 +134,7 @@ namespace RogueCastle
 
             m_quickDropText = new TextObj(Game.JunicodeFont);
             m_quickDropText.FontSize = 8;
-            m_quickDropText.Text = "*Quick drop allows you to drop down ledges and down-attack in \nthe air by pressing DOWN";
+            m_quickDropText.Text = "*Quick drop allows you to drop down ledges and down-attack in \nþe air by pressing DOWN";
             m_quickDropText.Position = new Vector2(420, 620);
             m_quickDropText.ForceDraw = true;
             m_quickDropText.DropShadow = new Vector2(2, 2);
@@ -467,3 +467,4 @@ namespace RogueCastle
         }
     }
 }
+
